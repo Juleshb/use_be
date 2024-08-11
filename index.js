@@ -17,6 +17,14 @@ app.use('/api/provinces', require('./routes/provinces'));
 app.use('/api/students', require('./routes/students'));
 app.use('/api/users', require('./routes/users'));
 
+app.get("/", (req, res) => {
+    res.status(200).json({
+      status: "200",
+      author: "Juleshb",
+      message:"Most welcome to my API"
+    })
+  });
+
 // Database connection check
 db.getConnection()
   .then(connection => {
