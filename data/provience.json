@@ -1,38 +1,38 @@
 [
     {
-        "idProvince": "4",
-        "nomProvince": "ITURI"
+        "id": "4",
+        "name": "ITURI"
     },
     {
-        "idProvince": "3",
-        "nomProvince": "Kasaï"
+        "id": "3",
+        "name": "Kasaï"
     },
     {
-        "idProvince": "5",
-        "nomProvince": "Kasaï Central "
+        "id": "5",
+        "name": "Kasaï Central "
     },
     {
-        "idProvince": "1",
-        "nomProvince": "Kinshasa"
+        "id": "1",
+        "name": "Kinshasa"
     },
     {
-        "idProvince": "7",
-        "nomProvince": "Lomami"
+        "id": "7",
+        "name": "Lomami"
     },
     {
-        "idProvince": "8",
-        "nomProvince": "Mongala"
+        "id": "8",
+        "name": "Mongala"
     },
     {
-        "idProvince": "6",
-        "nomProvince": "Nord-Kivu"
+        "id": "6",
+        "name": "Nord-Kivu"
     },
     {
-        "idProvince": "9",
-        "nomProvince": "Sud Kivu "
+        "id": "9",
+        "name": "Sud Kivu "
     },
     {
-        "idProvince": "2",
-        "nomProvince": "Tshopo"
+        "id": "2",
+        "name": "Tshopo"
     }
 ]

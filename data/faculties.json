@@ -1,2699 +1,2699 @@
 {
     "facs": [
         {
-            "codeFac": "6",
-            "nomFac": "Philosophie ",
-            "univ": "7"
+            "id": "6",
+            "name": "Philosophie ",
+            "institution_id": "7"
         },
         {
-            "codeFac": "7",
-            "nomFac": "Lettres, Langues, Arts et Sciences de l`homme et de la Société",
-            "univ": "6"
+            "id": "7",
+            "name": "Lettres, Langues, Arts et Sciences de l`homme et de la Société",
+            "institution_id": "6"
         },
         {
-            "codeFac": "8",
-            "nomFac": "Sciences Naturelles et Exactes",
-            "univ": "6"
+            "id": "8",
+            "name": "Sciences Naturelles et Exactes",
+            "institution_id": "6"
         },
         {
-            "codeFac": "9",
-            "nomFac": "Sciences Économiques et de Gestion",
-            "univ": "6"
+            "id": "9",
+            "name": "Sciences Économiques et de Gestion",
+            "institution_id": "6"
         },
         {
-            "codeFac": "10",
-            "nomFac": "Sciences psychologiques et éducation",
-            "univ": "6"
+            "id": "10",
+            "name": "Sciences psychologiques et éducation",
+            "institution_id": "6"
         },
         {
-            "codeFac": "11",
-            "nomFac": "Sciences et Techniques",
-            "univ": "6"
+            "id": "11",
+            "name": "Sciences et Techniques",
+            "institution_id": "6"
         },
         {
-            "codeFac": "12",
-            "nomFac": "Sciences Commerciales et Financières ",
-            "univ": "8"
+            "id": "12",
+            "name": "Sciences Commerciales et Financières ",
+            "institution_id": "8"
         },
         {
-            "codeFac": "13",
-            "nomFac": "Sciences informatiques",
-            "univ": "8"
+            "id": "13",
+            "name": "Sciences informatiques",
+            "institution_id": "8"
         },
         {
-            "codeFac": "14",
-            "nomFac": "Sciences de Techniques de Secrétariat de Direction et Sciences d’administration",
-            "univ": "8"
+            "id": "14",
+            "name": "Sciences de Techniques de Secrétariat de Direction et Sciences d’administration",
+            "institution_id": "8"
         },
         {
-            "codeFac": "15",
-            "nomFac": "Soins Généraux",
-            "univ": "9"
+            "id": "15",
+            "name": "Soins Généraux",
+            "institution_id": "9"
         },
         {
-            "codeFac": "16",
-            "nomFac": "Gestion des organisation",
-            "univ": "9"
+            "id": "16",
+            "name": "Gestion des organisation",
+            "institution_id": "9"
         },
         {
-            "codeFac": "17",
-            "nomFac": "Laboratoire",
-            "univ": "9"
+            "id": "17",
+            "name": "Laboratoire",
+            "institution_id": "9"
         },
         {
-            "codeFac": "18",
-            "nomFac": "Sciences des aliments, nutrition et diététique",
-            "univ": "9"
+            "id": "18",
+            "name": "Sciences des aliments, nutrition et diététique",
+            "institution_id": "9"
         },
         {
-            "codeFac": "19",
-            "nomFac": "Sage-femme",
-            "univ": "9"
+            "id": "19",
+            "name": "Sage-femme",
+            "institution_id": "9"
         },
         {
-            "codeFac": "20",
-            "nomFac": "technique pharmaceutique",
-            "univ": "9"
+            "id": "20",
+            "name": "technique pharmaceutique",
+            "institution_id": "9"
         },
         {
-            "codeFac": "21",
-            "nomFac": "Santé Communautaire",
-            "univ": "9"
+            "id": "21",
+            "name": "Santé Communautaire",
+            "institution_id": "9"
         },
         {
-            "codeFac": "22",
-            "nomFac": "Hygiène et environnement",
-            "univ": "9"
+            "id": "22",
+            "name": "Hygiène et environnement",
+            "institution_id": "9"
         },
         {
-            "codeFac": "23",
-            "nomFac": "Sciences Commerciales et Financières ",
-            "univ": "5"
+            "id": "23",
+            "name": "Sciences Commerciales et Financières ",
+            "institution_id": "5"
         },
         {
-            "codeFac": "24",
-            "nomFac": "Sciences informatiques",
-            "univ": "5"
+            "id": "24",
+            "name": "Sciences informatiques",
+            "institution_id": "5"
         },
         {
-            "codeFac": "25",
-            "nomFac": "Sciences de Techniques de Secrétariat de Direction et Sciences d’administration",
-            "univ": "5"
+            "id": "25",
+            "name": "Sciences de Techniques de Secrétariat de Direction et Sciences d’administration",
+            "institution_id": "5"
         },
         {
-            "codeFac": "26",
-            "nomFac": "Sciences Exactes",
-            "univ": "3"
+            "id": "26",
+            "name": "Sciences Exactes",
+            "institution_id": "3"
         },
         {
-            "codeFac": "27",
-            "nomFac": "Lettres et Sciences Humaines",
-            "univ": "3"
+            "id": "27",
+            "name": "Lettres et Sciences Humaines",
+            "institution_id": "3"
         },
         {
-            "codeFac": "28",
-            "nomFac": "Psychologie et Sciences de l`Education",
-            "univ": "10"
+            "id": "28",
+            "name": "Psychologie et Sciences de l`Education",
+            "institution_id": "10"
         },
         {
-            "codeFac": "29",
-            "nomFac": "Droit",
-            "univ": "10"
+            "id": "29",
+            "name": "Droit",
+            "institution_id": "10"
         },
         {
-            "codeFac": "30",
-            "nomFac": "Sciences Appliquées",
-            "univ": "10"
+            "id": "30",
+            "name": "Sciences Appliquées",
+            "institution_id": "10"
         },
         {
-            "codeFac": "31",
-            "nomFac": "Sciences Agronomiques et Vétérinaires",
-            "univ": "10"
+            "id": "31",
+            "name": "Sciences Agronomiques et Vétérinaires",
+            "institution_id": "10"
         },
         {
-            "codeFac": "32",
-            "nomFac": "Sciences Économiques et de Gestion",
-            "univ": "10"
+            "id": "32",
+            "name": "Sciences Économiques et de Gestion",
+            "institution_id": "10"
         },
         {
-            "codeFac": "33",
-            "nomFac": "Faculté des Sciences",
-            "univ": "2"
+            "id": "33",
+            "name": "Faculté des Sciences",
+            "institution_id": "2"
         },
         {
-            "codeFac": "34",
-            "nomFac": "Psychologie et Sc. de l`Education",
-            "univ": "2"
+            "id": "34",
+            "name": "Psychologie et Sc. de l`Education",
+            "institution_id": "2"
         },
         {
-            "codeFac": "35",
-            "nomFac": "Médecine et Pharmacie",
-            "univ": "2"
+            "id": "35",
+            "name": "Médecine et Pharmacie",
+            "institution_id": "2"
         },
         {
-            "codeFac": "36",
-            "nomFac": "Sc. Sociales Politiques et Administratives",
-            "univ": "2"
+            "id": "36",
+            "name": "Sc. Sociales Politiques et Administratives",
+            "institution_id": "2"
         },
         {
-            "codeFac": "37",
-            "nomFac": "Lettres et Sc Humaines",
-            "univ": "2"
+            "id": "37",
+            "name": "Lettres et Sc Humaines",
+            "institution_id": "2"
         },
         {
-            "codeFac": "38",
-            "nomFac": "Droit",
-            "univ": "2"
+            "id": "38",
+            "name": "Droit",
+            "institution_id": "2"
         },
         {
-            "codeFac": "39",
-            "nomFac": "Sc. Economiques et de Gestion",
-            "univ": "2"
+            "id": "39",
+            "name": "Sc. Economiques et de Gestion",
+            "institution_id": "2"
         },
         {
-            "codeFac": "40",
-            "nomFac": "Gest. des Ress. Nat. Renouv.",
-            "univ": "2"
+            "id": "40",
+            "name": "Gest. des Ress. Nat. Renouv.",
+            "institution_id": "2"
         },
         {
-            "codeFac": "41",
-            "nomFac": "Ecole Supérieure d`Hôtéllerie",
-            "univ": "2"
+            "id": "41",
+            "name": "Ecole Supérieure d`Hôtéllerie",
+            "institution_id": "2"
         },
         {
-            "codeFac": "42",
-            "nomFac": "Ecole de pèche et d`aquaculture",
-            "univ": "2"
+            "id": "42",
+            "name": "Ecole de pèche et d`aquaculture",
+            "institution_id": "2"
         },
         {
-            "codeFac": "43",
-            "nomFac": "Sces Agro ",
-            "univ": "11"
+            "id": "43",
+            "name": "Sces Agro ",
+            "institution_id": "11"
         },
         {
-            "codeFac": "44",
-            "nomFac": "Agro Éco. ",
-            "univ": "11"
+            "id": "44",
+            "name": "Agro Éco. ",
+            "institution_id": "11"
         },
         {
-            "codeFac": "45",
-            "nomFac": "GRNR",
-            "univ": "11"
+            "id": "45",
+            "name": "GRNR",
+            "institution_id": "11"
         },
         {
-            "codeFac": "46",
-            "nomFac": "Médecin Vétérinaire ",
-            "univ": "11"
+            "id": "46",
+            "name": "Médecin Vétérinaire ",
+            "institution_id": "11"
         },
         {
-            "codeFac": "47",
-            "nomFac": "Agro. Gén",
-            "univ": "11"
+            "id": "47",
+            "name": "Agro. Gén",
+            "institution_id": "11"
         },
         {
-            "codeFac": "48",
-            "nomFac": "Eaux et forêts ",
-            "univ": "11"
+            "id": "48",
+            "name": "Eaux et forêts ",
+            "institution_id": "11"
         },
         {
-            "codeFac": "49",
-            "nomFac": "Sol et Eaux ",
-            "univ": "11"
+            "id": "49",
+            "name": "Sol et Eaux ",
+            "institution_id": "11"
         },
         {
-            "codeFac": "50",
-            "nomFac": "Sces Infirmière ",
-            "univ": "12"
+            "id": "50",
+            "name": "Sces Infirmière ",
+            "institution_id": "12"
         },
         {
-            "codeFac": "51",
-            "nomFac": "BIOMED",
-            "univ": "12"
+            "id": "51",
+            "name": "BIOMED",
+            "institution_id": "12"
         },
         {
-            "codeFac": "52",
-            "nomFac": "Gest Org. Santé ",
-            "univ": "12"
+            "id": "52",
+            "name": "Gest Org. Santé ",
+            "institution_id": "12"
         },
         {
-            "codeFac": "53",
-            "nomFac": "Sage Femme ",
-            "univ": "12"
+            "id": "53",
+            "name": "Sage Femme ",
+            "institution_id": "12"
         },
         {
-            "codeFac": "54",
-            "nomFac": "Sces Motri &amp; Pharm",
-            "univ": "12"
+            "id": "54",
+            "name": "Sces Motri &amp; Pharm",
+            "institution_id": "12"
         },
         {
-            "codeFac": "55",
-            "nomFac": "Technique Agricole",
-            "univ": "14"
+            "id": "55",
+            "name": "Technique Agricole",
+            "institution_id": "14"
         },
         {
-            "codeFac": "56",
-            "nomFac": "Développement Rural",
-            "univ": "14"
+            "id": "56",
+            "name": "Développement Rural",
+            "institution_id": "14"
         },
         {
-            "codeFac": "57",
-            "nomFac": "Bâtiment et Travaux Publics ",
-            "univ": "13"
+            "id": "57",
+            "name": "Bâtiment et Travaux Publics ",
+            "institution_id": "13"
         },
         {
-            "codeFac": "58",
-            "nomFac": "Géométrie-Topographie",
-            "univ": "13"
+            "id": "58",
+            "name": "Géométrie-Topographie",
+            "institution_id": "13"
         },
         {
-            "codeFac": "59",
-            "nomFac": "Architecture ",
-            "univ": "13"
+            "id": "59",
+            "name": "Architecture ",
+            "institution_id": "13"
         },
         {
-            "codeFac": "60",
-            "nomFac": "Urbanisme ",
-            "univ": "13"
+            "id": "60",
+            "name": "Urbanisme ",
+            "institution_id": "13"
         },
         {
-            "codeFac": "61",
-            "nomFac": "Droit",
-            "univ": "17"
+            "id": "61",
+            "name": "Droit",
+            "institution_id": "17"
         },
         {
-            "codeFac": "62",
-            "nomFac": "Management et Sc. Économiques ",
-            "univ": "17"
+            "id": "62",
+            "name": "Management et Sc. Économiques ",
+            "institution_id": "17"
         },
         {
-            "codeFac": "68",
-            "nomFac": "Sces et Technologie Appliquée ",
-            "univ": "18"
+            "id": "68",
+            "name": "Sces et Technologie Appliquée ",
+            "institution_id": "18"
         },
         {
-            "codeFac": "69",
-            "nomFac": "Sces Économiques et Gestion ",
-            "univ": "18"
+            "id": "69",
+            "name": "Sces Économiques et Gestion ",
+            "institution_id": "18"
         },
         {
-            "codeFac": "70",
-            "nomFac": "Sces Juridique ",
-            "univ": "18"
+            "id": "70",
+            "name": "Sces Juridique ",
+            "institution_id": "18"
         },
         {
-            "codeFac": "71",
-            "nomFac": "Sciences Infirmières",
-            "univ": "16"
+            "id": "71",
+            "name": "Sciences Infirmières",
+            "institution_id": "16"
         },
         {
-            "codeFac": "72",
-            "nomFac": "Sciences Exactes",
-            "univ": "19"
+            "id": "72",
+            "name": "Sciences Exactes",
+            "institution_id": "19"
         },
         {
-            "codeFac": "73",
-            "nomFac": "Lettres et Sciences Humaines",
-            "univ": "19"
+            "id": "73",
+            "name": "Lettres et Sciences Humaines",
+            "institution_id": "19"
         },
         {
-            "codeFac": "74",
-            "nomFac": "Lettres et Sciences Humaines",
-            "univ": "20"
+            "id": "74",
+            "name": "Lettres et Sciences Humaines",
+            "institution_id": "20"
         },
         {
-            "codeFac": "75",
-            "nomFac": "Sciences exactes ",
-            "univ": "20"
+            "id": "75",
+            "name": "Sciences exactes ",
+            "institution_id": "20"
         },
         {
-            "codeFac": "76",
-            "nomFac": "Développement rural ",
-            "univ": "21"
+            "id": "76",
+            "name": "Développement rural ",
+            "institution_id": "21"
         },
         {
-            "codeFac": "77",
-            "nomFac": "Techniques agricoles",
-            "univ": "21"
+            "id": "77",
+            "name": "Techniques agricoles",
+            "institution_id": "21"
         },
         {
-            "codeFac": "78",
-            "nomFac": "Agrovétérinaire",
-            "univ": "21"
+            "id": "78",
+            "name": "Agrovétérinaire",
+            "institution_id": "21"
         },
         {
-            "codeFac": "79",
-            "nomFac": "Gestion des Ressources Naturelles Renouvelables",
-            "univ": "21"
+            "id": "79",
+            "name": "Gestion des Ressources Naturelles Renouvelables",
+            "institution_id": "21"
         },
         {
-            "codeFac": "80",
-            "nomFac": "Philosophie ",
-            "univ": "22"
+            "id": "80",
+            "name": "Philosophie ",
+            "institution_id": "22"
         },
         {
-            "codeFac": "81",
-            "nomFac": "Lettres et Sciences Humaines",
-            "univ": "23"
+            "id": "81",
+            "name": "Lettres et Sciences Humaines",
+            "institution_id": "23"
         },
         {
-            "codeFac": "82",
-            "nomFac": "Sciences exactes ",
-            "univ": "23"
+            "id": "82",
+            "name": "Sciences exactes ",
+            "institution_id": "23"
         },
         {
-            "codeFac": "83",
-            "nomFac": "Sciences exactes ",
-            "univ": "24"
+            "id": "83",
+            "name": "Sciences exactes ",
+            "institution_id": "24"
         },
         {
-            "codeFac": "86",
-            "nomFac": "Lettres et Sciences Humaines",
-            "univ": "24"
+            "id": "86",
+            "name": "Lettres et Sciences Humaines",
+            "institution_id": "24"
         },
         {
-            "codeFac": "87",
-            "nomFac": "Lettres et Sciences Humaines",
-            "univ": "27"
+            "id": "87",
+            "name": "Lettres et Sciences Humaines",
+            "institution_id": "27"
         },
         {
-            "codeFac": "88",
-            "nomFac": "Sciences exactes ",
-            "univ": "27"
+            "id": "88",
+            "name": "Sciences exactes ",
+            "institution_id": "27"
         },
         {
-            "codeFac": "89",
-            "nomFac": "f",
-            "univ": "28"
+            "id": "89",
+            "name": "f",
+            "institution_id": "28"
         },
         {
-            "codeFac": "90",
-            "nomFac": "Informatique et Technologie",
-            "univ": "13"
+            "id": "90",
+            "name": "Informatique et Technologie",
+            "institution_id": "13"
         },
         {
-            "codeFac": "91",
-            "nomFac": "Sciences infirmières",
-            "univ": "29"
+            "id": "91",
+            "name": "Sciences infirmières",
+            "institution_id": "29"
         },
         {
-            "codeFac": "92",
-            "nomFac": "Section Sage-femme",
-            "univ": "29"
+            "id": "92",
+            "name": "Section Sage-femme",
+            "institution_id": "29"
         },
         {
-            "codeFac": "93",
-            "nomFac": "Section Santé communautaire",
-            "univ": "29"
+            "id": "93",
+            "name": "Section Santé communautaire",
+            "institution_id": "29"
         },
         {
-            "codeFac": "94",
-            "nomFac": "Sces Infirmières",
-            "univ": "31"
+            "id": "94",
+            "name": "Sces Infirmières",
+            "institution_id": "31"
         },
         {
-            "codeFac": "95",
-            "nomFac": "Sage-Femme",
-            "univ": "31"
+            "id": "95",
+            "name": "Sage-Femme",
+            "institution_id": "31"
         },
         {
-            "codeFac": "96",
-            "nomFac": "Biomed ",
-            "univ": "31"
+            "id": "96",
+            "name": "Biomed ",
+            "institution_id": "31"
         },
         {
-            "codeFac": "97",
-            "nomFac": "Gest Org de Santé ",
-            "univ": "31"
+            "id": "97",
+            "name": "Gest Org de Santé ",
+            "institution_id": "31"
         },
         {
-            "codeFac": "98",
-            "nomFac": "Santé ",
-            "univ": "42"
+            "id": "98",
+            "name": "Santé ",
+            "institution_id": "42"
         },
         {
-            "codeFac": "99",
-            "nomFac": "Juridique, Politique et adm",
-            "univ": "42"
+            "id": "99",
+            "name": "Juridique, Politique et adm",
+            "institution_id": "42"
         },
         {
-            "codeFac": "100",
-            "nomFac": "Agro et Enviro",
-            "univ": "42"
+            "id": "100",
+            "name": "Agro et Enviro",
+            "institution_id": "42"
         },
         {
-            "codeFac": "101",
-            "nomFac": "Psy et Sces Edu",
-            "univ": "42"
+            "id": "101",
+            "name": "Psy et Sces Edu",
+            "institution_id": "42"
         },
         {
-            "codeFac": "104",
-            "nomFac": "Sces Eco et Gestion ",
-            "univ": "42"
+            "id": "104",
+            "name": "Sces Eco et Gestion ",
+            "institution_id": "42"
         },
         {
-            "codeFac": "105",
-            "nomFac": "Sces et Tech",
-            "univ": "42"
+            "id": "105",
+            "name": "Sces et Tech",
+            "institution_id": "42"
         },
         {
-            "codeFac": "106",
-            "nomFac": "Sces l’Homme et Société ",
-            "univ": "42"
+            "id": "106",
+            "name": "Sces l’Homme et Société ",
+            "institution_id": "42"
         },
         {
-            "codeFac": "115",
-            "nomFac": "Sces exactes",
-            "univ": "46"
+            "id": "115",
+            "name": "Sces exactes",
+            "institution_id": "46"
         },
         {
-            "codeFac": "116",
-            "nomFac": "Sces lettres et Sces humaines ",
-            "univ": "46"
+            "id": "116",
+            "name": "Sces lettres et Sces humaines ",
+            "institution_id": "46"
         },
         {
-            "codeFac": "117",
-            "nomFac": "Psy et Sces de l’Educ",
-            "univ": "45"
+            "id": "117",
+            "name": "Psy et Sces de l’Educ",
+            "institution_id": "45"
         },
         {
-            "codeFac": "118",
-            "nomFac": "Sces de Travail ",
-            "univ": "45"
+            "id": "118",
+            "name": "Sces de Travail ",
+            "institution_id": "45"
         },
         {
-            "codeFac": "119",
-            "nomFac": "Sces Agro et Envi",
-            "univ": "32"
+            "id": "119",
+            "name": "Sces Agro et Envi",
+            "institution_id": "32"
         },
         {
-            "codeFac": "121",
-            "nomFac": "SL et SH",
-            "univ": "44"
+            "id": "121",
+            "name": "SL et SH",
+            "institution_id": "44"
         },
         {
-            "codeFac": "122",
-            "nomFac": "SSE",
-            "univ": "44"
+            "id": "122",
+            "name": "SSE",
+            "institution_id": "44"
         },
         {
-            "codeFac": "123",
-            "nomFac": "Sces et Tech",
-            "univ": "44"
+            "id": "123",
+            "name": "Sces et Tech",
+            "institution_id": "44"
         },
         {
-            "codeFac": "124",
-            "nomFac": "Sces Agro Vet ",
-            "univ": "44"
+            "id": "124",
+            "name": "Sces Agro Vet ",
+            "institution_id": "44"
         },
         {
-            "codeFac": "125",
-            "nomFac": "LL ET A",
-            "univ": "44"
+            "id": "125",
+            "name": "LL ET A",
+            "institution_id": "44"
         },
         {
-            "codeFac": "126",
-            "nomFac": "SEG",
-            "univ": "44"
+            "id": "126",
+            "name": "SEG",
+            "institution_id": "44"
         },
         {
-            "codeFac": "127",
-            "nomFac": "SHS",
-            "univ": "44"
+            "id": "127",
+            "name": "SHS",
+            "institution_id": "44"
         },
         {
-            "codeFac": "128",
-            "nomFac": "SPE",
-            "univ": "44"
+            "id": "128",
+            "name": "SPE",
+            "institution_id": "44"
         },
         {
-            "codeFac": "130",
-            "nomFac": "Sces Com et Adm",
-            "univ": "33"
+            "id": "130",
+            "name": "Sces Com et Adm",
+            "institution_id": "33"
         },
         {
-            "codeFac": "131",
-            "nomFac": "Management ",
-            "univ": "33"
+            "id": "131",
+            "name": "Management ",
+            "institution_id": "33"
         },
         {
-            "codeFac": "132",
-            "nomFac": "Théologie ",
-            "univ": "37"
+            "id": "132",
+            "name": "Théologie ",
+            "institution_id": "37"
         },
         {
-            "codeFac": "133",
-            "nomFac": "Psy et Sces Educ",
-            "univ": "37"
+            "id": "133",
+            "name": "Psy et Sces Educ",
+            "institution_id": "37"
         },
         {
-            "codeFac": "134",
-            "nomFac": "Min et Géologie ",
-            "univ": "37"
+            "id": "134",
+            "name": "Min et Géologie ",
+            "institution_id": "37"
         },
         {
-            "codeFac": "135",
-            "nomFac": "Polytch",
-            "univ": "37"
+            "id": "135",
+            "name": "Polytch",
+            "institution_id": "37"
         },
         {
-            "codeFac": "136",
-            "nomFac": "SaCom",
-            "univ": "37"
+            "id": "136",
+            "name": "SaCom",
+            "institution_id": "37"
         },
         {
-            "codeFac": "137",
-            "nomFac": "Paix GC",
-            "univ": "37"
+            "id": "137",
+            "name": "Paix GC",
+            "institution_id": "37"
         },
         {
-            "codeFac": "138",
-            "nomFac": "Descofin",
-            "univ": "33"
+            "id": "138",
+            "name": "Descofin",
+            "institution_id": "33"
         },
         {
-            "codeFac": "139",
-            "nomFac": "Dev. Rural ",
-            "univ": "32"
+            "id": "139",
+            "name": "Dev. Rural ",
+            "institution_id": "32"
         },
         {
-            "codeFac": "140",
-            "nomFac": "Sces Informatique ",
-            "univ": "38"
+            "id": "140",
+            "name": "Sces Informatique ",
+            "institution_id": "38"
         },
         {
-            "codeFac": "141",
-            "nomFac": "Sces Com et admin ",
-            "univ": "38"
+            "id": "141",
+            "name": "Sces Com et admin ",
+            "institution_id": "38"
         },
         {
-            "codeFac": "142",
-            "nomFac": "Gest tourist et hot",
-            "univ": "38"
+            "id": "142",
+            "name": "Gest tourist et hot",
+            "institution_id": "38"
         },
         {
-            "codeFac": "143",
-            "nomFac": "Art et Métiers ",
-            "univ": "38"
+            "id": "143",
+            "name": "Art et Métiers ",
+            "institution_id": "38"
         },
         {
-            "codeFac": "144",
-            "nomFac": "Compt et Fin",
-            "univ": "48"
+            "id": "144",
+            "name": "Compt et Fin",
+            "institution_id": "48"
         },
         {
-            "codeFac": "145",
-            "nomFac": "Marketing",
-            "univ": "48"
+            "id": "145",
+            "name": "Marketing",
+            "institution_id": "48"
         },
         {
-            "codeFac": "146",
-            "nomFac": "Fisc. Douane et Acc.",
-            "univ": "48"
+            "id": "146",
+            "name": "Fisc. Douane et Acc.",
+            "institution_id": "48"
         },
         {
-            "codeFac": "147",
-            "nomFac": "Info Gestion ",
-            "univ": "48"
+            "id": "147",
+            "name": "Info Gestion ",
+            "institution_id": "48"
         },
         {
-            "codeFac": "148",
-            "nomFac": "E.P et PME",
-            "univ": "48"
+            "id": "148",
+            "name": "E.P et PME",
+            "institution_id": "48"
         },
         {
-            "codeFac": "149",
-            "nomFac": "GRH",
-            "univ": "48"
+            "id": "149",
+            "name": "GRH",
+            "institution_id": "48"
         },
         {
-            "codeFac": "150",
-            "nomFac": "Log et Trans",
-            "univ": "48"
+            "id": "150",
+            "name": "Log et Trans",
+            "institution_id": "48"
         },
         {
-            "codeFac": "151",
-            "nomFac": "Mang. Et Sces Eco",
-            "univ": "43"
+            "id": "151",
+            "name": "Mang. Et Sces Eco",
+            "institution_id": "43"
         },
         {
-            "codeFac": "152",
-            "nomFac": "Droit",
-            "univ": "43"
+            "id": "152",
+            "name": "Droit",
+            "institution_id": "43"
         },
         {
-            "codeFac": "153",
-            "nomFac": "SSPA",
-            "univ": "43"
+            "id": "153",
+            "name": "SSPA",
+            "institution_id": "43"
         },
         {
-            "codeFac": "154",
-            "nomFac": "SIC",
-            "univ": "43"
+            "id": "154",
+            "name": "SIC",
+            "institution_id": "43"
         },
         {
-            "codeFac": "155",
-            "nomFac": "Prépa ",
-            "univ": "35"
+            "id": "155",
+            "name": "Prépa ",
+            "institution_id": "35"
         },
         {
-            "codeFac": "156",
-            "nomFac": "BTP",
-            "univ": "35"
+            "id": "156",
+            "name": "BTP",
+            "institution_id": "35"
         },
         {
-            "codeFac": "157",
-            "nomFac": "SAND",
-            "univ": "41"
+            "id": "157",
+            "name": "SAND",
+            "institution_id": "41"
         },
         {
-            "codeFac": "158",
-            "nomFac": "SF",
-            "univ": "41"
+            "id": "158",
+            "name": "SF",
+            "institution_id": "41"
         },
         {
-            "codeFac": "159",
-            "nomFac": "GOS",
-            "univ": "41"
+            "id": "159",
+            "name": "GOS",
+            "institution_id": "41"
         },
         {
-            "codeFac": "161",
-            "nomFac": "TPHAR",
-            "univ": "41"
+            "id": "161",
+            "name": "TPHAR",
+            "institution_id": "41"
         },
         {
-            "codeFac": "162",
-            "nomFac": "TLAB",
-            "univ": "41"
+            "id": "162",
+            "name": "TLAB",
+            "institution_id": "41"
         },
         {
-            "codeFac": "163",
-            "nomFac": "SACOM",
-            "univ": "41"
+            "id": "163",
+            "name": "SACOM",
+            "institution_id": "41"
         },
         {
-            "codeFac": "164",
-            "nomFac": "SI",
-            "univ": "41"
+            "id": "164",
+            "name": "SI",
+            "institution_id": "41"
         },
         {
-            "codeFac": "165",
-            "nomFac": "Lettre et Sces Humaines ",
-            "univ": "47"
+            "id": "165",
+            "name": "Lettre et Sces Humaines ",
+            "institution_id": "47"
         },
         {
-            "codeFac": "166",
-            "nomFac": "Sces Exactes ",
-            "univ": "47"
+            "id": "166",
+            "name": "Sces Exactes ",
+            "institution_id": "47"
         },
         {
-            "codeFac": "168",
-            "nomFac": "Adm et Gestion",
-            "univ": "30"
+            "id": "168",
+            "name": "Adm et Gestion",
+            "institution_id": "30"
         },
         {
-            "codeFac": "169",
-            "nomFac": "Sces de développement ",
-            "univ": "30"
+            "id": "169",
+            "name": "Sces de développement ",
+            "institution_id": "30"
         },
         {
-            "codeFac": "170",
-            "nomFac": "Théologie Évangélique ",
-            "univ": "30"
+            "id": "170",
+            "name": "Théologie Évangélique ",
+            "institution_id": "30"
         },
         {
-            "codeFac": "171",
-            "nomFac": "Médecine",
-            "univ": "30"
+            "id": "171",
+            "name": "Médecine",
+            "institution_id": "30"
         },
         {
-            "codeFac": "172",
-            "nomFac": "Sces Agro et Env.",
-            "univ": "30"
+            "id": "172",
+            "name": "Sces Agro et Env.",
+            "institution_id": "30"
         },
         {
-            "codeFac": "173",
-            "nomFac": "Tech. Agricole ",
-            "univ": "36"
+            "id": "173",
+            "name": "Tech. Agricole ",
+            "institution_id": "36"
         },
         {
-            "codeFac": "174",
-            "nomFac": "Développement ",
-            "univ": "36"
+            "id": "174",
+            "name": "Développement ",
+            "institution_id": "36"
         },
         {
-            "codeFac": "175",
-            "nomFac": "Méd. Vétérinaire ",
-            "univ": "36"
+            "id": "175",
+            "name": "Méd. Vétérinaire ",
+            "institution_id": "36"
         },
         {
-            "codeFac": "177",
-            "nomFac": "Sciences juridique, Admin et Rel inter",
-            "univ": "53"
+            "id": "177",
+            "name": "Sciences juridique, Admin et Rel inter",
+            "institution_id": "53"
         },
         {
-            "codeFac": "178",
-            "nomFac": "Sciences et Technologie ",
-            "univ": "53"
+            "id": "178",
+            "name": "Sciences et Technologie ",
+            "institution_id": "53"
         },
         {
-            "codeFac": "179",
-            "nomFac": "Sciences de l’Homme et de la société",
-            "univ": "53"
+            "id": "179",
+            "name": "Sciences de l’Homme et de la société",
+            "institution_id": "53"
         },
         {
-            "codeFac": "180",
-            "nomFac": "Sciences agronomiques et Environ",
-            "univ": "53"
+            "id": "180",
+            "name": "Sciences agronomiques et Environ",
+            "institution_id": "53"
         },
         {
-            "codeFac": "181",
-            "nomFac": "Science de l’ingénieur",
-            "univ": "53"
+            "id": "181",
+            "name": "Science de l’ingénieur",
+            "institution_id": "53"
         },
         {
-            "codeFac": "182",
-            "nomFac": "Science de l’ingénieur",
-            "univ": "53"
+            "id": "182",
+            "name": "Science de l’ingénieur",
+            "institution_id": "53"
         },
         {
-            "codeFac": "183",
-            "nomFac": "Sciences Agronomiques et Environnement ",
-            "univ": "54"
+            "id": "183",
+            "name": "Sciences Agronomiques et Environnement ",
+            "institution_id": "54"
         },
         {
-            "codeFac": "184",
-            "nomFac": "Sciences juridiques, Politiques et Administratives",
-            "univ": "54"
+            "id": "184",
+            "name": "Sciences juridiques, Politiques et Administratives",
+            "institution_id": "54"
         },
         {
-            "codeFac": "185",
-            "nomFac": "Sciences et Technologies",
-            "univ": "54"
+            "id": "185",
+            "name": "Sciences et Technologies",
+            "institution_id": "54"
         },
         {
-            "codeFac": "186",
-            "nomFac": "Sciences Psychologiques et de l’Education",
-            "univ": "54"
+            "id": "186",
+            "name": "Sciences Psychologiques et de l’Education",
+            "institution_id": "54"
         },
         {
-            "codeFac": "187",
-            "nomFac": "Sciences Economiques et de gestion ",
-            "univ": "54"
+            "id": "187",
+            "name": "Sciences Economiques et de gestion ",
+            "institution_id": "54"
         },
         {
-            "codeFac": "188",
-            "nomFac": "Soins généraux",
-            "univ": "55"
+            "id": "188",
+            "name": "Soins généraux",
+            "institution_id": "55"
         },
         {
-            "codeFac": "189",
-            "nomFac": "Sage-Femme",
-            "univ": "55"
+            "id": "189",
+            "name": "Sage-Femme",
+            "institution_id": "55"
         },
         {
-            "codeFac": "191",
-            "nomFac": "Nutrition Dietetique",
-            "univ": "55"
+            "id": "191",
+            "name": "Nutrition Dietetique",
+            "institution_id": "55"
         },
         {
-            "codeFac": "192",
-            "nomFac": "Gestion Des institution de Santé",
-            "univ": "55"
+            "id": "192",
+            "name": "Gestion Des institution de Santé",
+            "institution_id": "55"
         },
         {
-            "codeFac": "193",
-            "nomFac": "Pharmacie",
-            "univ": "55"
+            "id": "193",
+            "name": "Pharmacie",
+            "institution_id": "55"
         },
         {
-            "codeFac": "194",
-            "nomFac": "Laboratoire",
-            "univ": "55"
+            "id": "194",
+            "name": "Laboratoire",
+            "institution_id": "55"
         },
         {
-            "codeFac": "195",
-            "nomFac": "Pediatrie",
-            "univ": "55"
+            "id": "195",
+            "name": "Pediatrie",
+            "institution_id": "55"
         },
         {
-            "codeFac": "196",
-            "nomFac": "Hospitalière",
-            "univ": "55"
+            "id": "196",
+            "name": "Hospitalière",
+            "institution_id": "55"
         },
         {
-            "codeFac": "197",
-            "nomFac": "EASI",
-            "univ": "55"
+            "id": "197",
+            "name": "EASI",
+            "institution_id": "55"
         },
         {
-            "codeFac": "198",
-            "nomFac": "Biologie Médicale",
-            "univ": "55"
+            "id": "198",
+            "name": "Biologie Médicale",
+            "institution_id": "55"
         },
         {
-            "codeFac": "199",
-            "nomFac": "Accoucheuse ",
-            "univ": "55"
+            "id": "199",
+            "name": "Accoucheuse ",
+            "institution_id": "55"
         },
         {
-            "codeFac": "200",
-            "nomFac": "Comptabilité et Finance",
-            "univ": "57"
+            "id": "200",
+            "name": "Comptabilité et Finance",
+            "institution_id": "57"
         },
         {
-            "codeFac": "201",
-            "nomFac": "Marketing",
-            "univ": "57"
+            "id": "201",
+            "name": "Marketing",
+            "institution_id": "57"
         },
         {
-            "codeFac": "202",
-            "nomFac": "Fiscalité, Douanes et Accises",
-            "univ": "57"
+            "id": "202",
+            "name": "Fiscalité, Douanes et Accises",
+            "institution_id": "57"
         },
         {
-            "codeFac": "203",
-            "nomFac": "Entrepreneuriat et Gestion des PME",
-            "univ": "57"
+            "id": "203",
+            "name": "Entrepreneuriat et Gestion des PME",
+            "institution_id": "57"
         },
         {
-            "codeFac": "204",
-            "nomFac": "Gestion des Ressources Humaines",
-            "univ": "57"
+            "id": "204",
+            "name": "Gestion des Ressources Humaines",
+            "institution_id": "57"
         },
         {
-            "codeFac": "205",
-            "nomFac": "Informatique de Gestion",
-            "univ": "57"
+            "id": "205",
+            "name": "Informatique de Gestion",
+            "institution_id": "57"
         },
         {
-            "codeFac": "206",
-            "nomFac": "Sciences commerciales et Financières ",
-            "univ": "57"
+            "id": "206",
+            "name": "Sciences commerciales et Financières ",
+            "institution_id": "57"
         },
         {
-            "codeFac": "207",
-            "nomFac": "Gestion des Entreprises",
-            "univ": "57"
+            "id": "207",
+            "name": "Gestion des Entreprises",
+            "institution_id": "57"
         },
         {
-            "codeFac": "208",
-            "nomFac": "Gestion et Administration des Projets",
-            "univ": "57"
+            "id": "208",
+            "name": "Gestion et Administration des Projets",
+            "institution_id": "57"
         },
         {
-            "codeFac": "209",
-            "nomFac": "Sciences Infirmières",
-            "univ": "58"
+            "id": "209",
+            "name": "Sciences Infirmières",
+            "institution_id": "58"
         },
         {
-            "codeFac": "210",
-            "nomFac": "Sage-Femme",
-            "univ": "58"
+            "id": "210",
+            "name": "Sage-Femme",
+            "institution_id": "58"
         },
         {
-            "codeFac": "211",
-            "nomFac": "Sciences Des Aliments",
-            "univ": "58"
+            "id": "211",
+            "name": "Sciences Des Aliments",
+            "institution_id": "58"
         },
         {
-            "codeFac": "212",
-            "nomFac": "Biologie Médicale",
-            "univ": "58"
+            "id": "212",
+            "name": "Biologie Médicale",
+            "institution_id": "58"
         },
         {
-            "codeFac": "213",
-            "nomFac": "Santé communautaire",
-            "univ": "58"
+            "id": "213",
+            "name": "Santé communautaire",
+            "institution_id": "58"
         },
         {
-            "codeFac": "214",
-            "nomFac": "Gestion  des Organisations de Santé",
-            "univ": "58"
+            "id": "214",
+            "name": "Gestion  des Organisations de Santé",
+            "institution_id": "58"
         },
         {
-            "codeFac": "215",
-            "nomFac": "Hospitalière",
-            "univ": "58"
+            "id": "215",
+            "name": "Hospitalière",
+            "institution_id": "58"
         },
         {
-            "codeFac": "216",
-            "nomFac": "Enseignement et Admin. en Soins Infirmiers",
-            "univ": "58"
+            "id": "216",
+            "name": "Enseignement et Admin. en Soins Infirmiers",
+            "institution_id": "58"
         },
         {
-            "codeFac": "218",
-            "nomFac": "Accoucheuse",
-            "univ": "58"
+            "id": "218",
+            "name": "Accoucheuse",
+            "institution_id": "58"
         },
         {
-            "codeFac": "219",
-            "nomFac": "Chirurgie",
-            "univ": "58"
+            "id": "219",
+            "name": "Chirurgie",
+            "institution_id": "58"
         },
         {
-            "codeFac": "221",
-            "nomFac": "Sciences Informatiques ",
-            "univ": "59"
+            "id": "221",
+            "name": "Sciences Informatiques ",
+            "institution_id": "59"
         },
         {
-            "codeFac": "222",
-            "nomFac": "Sciences Agronomiques et Environnement",
-            "univ": "59"
+            "id": "222",
+            "name": "Sciences Agronomiques et Environnement",
+            "institution_id": "59"
         },
         {
-            "codeFac": "223",
-            "nomFac": "Planification Régionale et Nationale",
-            "univ": "59"
+            "id": "223",
+            "name": "Planification Régionale et Nationale",
+            "institution_id": "59"
         },
         {
-            "codeFac": "224",
-            "nomFac": "Gestion des entreprises de Développement Rural",
-            "univ": "59"
+            "id": "224",
+            "name": "Gestion des entreprises de Développement Rural",
+            "institution_id": "59"
         },
         {
-            "codeFac": "225",
-            "nomFac": "Organisation Sociale",
-            "univ": "59"
+            "id": "225",
+            "name": "Organisation Sociale",
+            "institution_id": "59"
         },
         {
-            "codeFac": "226",
-            "nomFac": "Environnement et Développement Durable",
-            "univ": "59"
+            "id": "226",
+            "name": "Environnement et Développement Durable",
+            "institution_id": "59"
         },
         {
-            "codeFac": "227",
-            "nomFac": "Techniques Rurales",
-            "univ": "59"
+            "id": "227",
+            "name": "Techniques Rurales",
+            "institution_id": "59"
         },
         {
-            "codeFac": "228",
-            "nomFac": "Admnistration Rurale",
-            "univ": "59"
+            "id": "228",
+            "name": "Admnistration Rurale",
+            "institution_id": "59"
         },
         {
-            "codeFac": "229",
-            "nomFac": "Informatique de Gestion",
-            "univ": "59"
+            "id": "229",
+            "name": "Informatique de Gestion",
+            "institution_id": "59"
         },
         {
-            "codeFac": "230",
-            "nomFac": "Soins Généraux",
-            "univ": "60"
+            "id": "230",
+            "name": "Soins Généraux",
+            "institution_id": "60"
         },
         {
-            "codeFac": "239",
-            "nomFac": "Anglais-Cultures Africaines",
-            "univ": "61"
+            "id": "239",
+            "name": "Anglais-Cultures Africaines",
+            "institution_id": "61"
         },
         {
-            "codeFac": "240",
-            "nomFac": "Français-Langues Africaines",
-            "univ": "61"
+            "id": "240",
+            "name": "Français-Langues Africaines",
+            "institution_id": "61"
         },
         {
-            "codeFac": "241",
-            "nomFac": "Geographie et Gestion de l'environnement",
-            "univ": "61"
+            "id": "241",
+            "name": "Geographie et Gestion de l'environnement",
+            "institution_id": "61"
         },
         {
-            "codeFac": "242",
-            "nomFac": "Histoire, Sciences Sociales et Gestion de Patrimoine",
-            "univ": "61"
+            "id": "242",
+            "name": "Histoire, Sciences Sociales et Gestion de Patrimoine",
+            "institution_id": "61"
         },
         {
-            "codeFac": "243",
-            "nomFac": "Biologie-Chimie",
-            "univ": "61"
+            "id": "243",
+            "name": "Biologie-Chimie",
+            "institution_id": "61"
         },
         {
-            "codeFac": "244",
-            "nomFac": "Math-Physique",
-            "univ": "61"
+            "id": "244",
+            "name": "Math-Physique",
+            "institution_id": "61"
         },
         {
-            "codeFac": "246",
-            "nomFac": "Sciences Commerciales et Administratives",
-            "univ": "61"
+            "id": "246",
+            "name": "Sciences Commerciales et Administratives",
+            "institution_id": "61"
         },
         {
-            "codeFac": "247",
-            "nomFac": "Gestion et admin. Des Inst. Scolaires et de Formation",
-            "univ": "61"
+            "id": "247",
+            "name": "Gestion et admin. Des Inst. Scolaires et de Formation",
+            "institution_id": "61"
         },
         {
-            "codeFac": "249",
-            "nomFac": "Informatique de Gestion",
-            "univ": "61"
+            "id": "249",
+            "name": "Informatique de Gestion",
+            "institution_id": "61"
         },
         {
-            "codeFac": "251",
-            "nomFac": "Anglais",
-            "univ": "62"
+            "id": "251",
+            "name": "Anglais",
+            "institution_id": "62"
         },
         {
-            "codeFac": "253",
-            "nomFac": "sces com et Adm",
-            "univ": "62"
+            "id": "253",
+            "name": "sces com et Adm",
+            "institution_id": "62"
         },
         {
-            "codeFac": "254",
-            "nomFac": "GIS",
-            "univ": "41"
+            "id": "254",
+            "name": "GIS",
+            "institution_id": "41"
         },
         {
-            "codeFac": "256",
-            "nomFac": "DLLA",
-            "univ": "64"
+            "id": "256",
+            "name": "DLLA",
+            "institution_id": "64"
         },
         {
-            "codeFac": "257",
-            "nomFac": "DSEG",
-            "univ": "64"
+            "id": "257",
+            "name": "DSEG",
+            "institution_id": "64"
         },
         {
-            "codeFac": "258",
-            "nomFac": "DSPE",
-            "univ": "64"
+            "id": "258",
+            "name": "DSPE",
+            "institution_id": "64"
         },
         {
-            "codeFac": "259",
-            "nomFac": "DST",
-            "univ": "64"
+            "id": "259",
+            "name": "DST",
+            "institution_id": "64"
         },
         {
-            "codeFac": "260",
-            "nomFac": "ST",
-            "univ": "52"
+            "id": "260",
+            "name": "ST",
+            "institution_id": "52"
         },
         {
-            "codeFac": "261",
-            "nomFac": "TH",
-            "univ": "52"
+            "id": "261",
+            "name": "TH",
+            "institution_id": "52"
         },
         {
-            "codeFac": "262",
-            "nomFac": "LLA",
-            "univ": "52"
+            "id": "262",
+            "name": "LLA",
+            "institution_id": "52"
         },
         {
-            "codeFac": "263",
-            "nomFac": "SEG",
-            "univ": "52"
+            "id": "263",
+            "name": "SEG",
+            "institution_id": "52"
         },
         {
-            "codeFac": "264",
-            "nomFac": "Sciences infirmières",
-            "univ": "65"
+            "id": "264",
+            "name": "Sciences infirmières",
+            "institution_id": "65"
         },
         {
-            "codeFac": "265",
-            "nomFac": "Développement rural",
-            "univ": "65"
+            "id": "265",
+            "name": "Développement rural",
+            "institution_id": "65"
         },
         {
-            "codeFac": "266",
-            "nomFac": "S.S.P.A",
-            "univ": "66"
+            "id": "266",
+            "name": "S.S.P.A",
+            "institution_id": "66"
         },
         {
-            "codeFac": "267",
-            "nomFac": "L,L,A et Sces l`H.S",
-            "univ": "66"
+            "id": "267",
+            "name": "L,L,A et Sces l`H.S",
+            "institution_id": "66"
         },
         {
-            "codeFac": "268",
-            "nomFac": "DROIT",
-            "univ": "66"
+            "id": "268",
+            "name": "DROIT",
+            "institution_id": "66"
         },
         {
-            "codeFac": "269",
-            "nomFac": "PSY ET SCES L’EDUC",
-            "univ": "66"
+            "id": "269",
+            "name": "PSY ET SCES L’EDUC",
+            "institution_id": "66"
         },
         {
-            "codeFac": "270",
-            "nomFac": "SCES AGRO.",
-            "univ": "66"
+            "id": "270",
+            "name": "SCES AGRO.",
+            "institution_id": "66"
         },
         {
-            "codeFac": "271",
-            "nomFac": "Techniques de développement ",
-            "univ": "73"
+            "id": "271",
+            "name": "Techniques de développement ",
+            "institution_id": "73"
         },
         {
-            "codeFac": "272",
-            "nomFac": "Techniques de gestion agricole ",
-            "univ": "73"
+            "id": "272",
+            "name": "Techniques de gestion agricole ",
+            "institution_id": "73"
         },
         {
-            "codeFac": "273",
-            "nomFac": "Lettres et sciences humaines ",
-            "univ": "74"
+            "id": "273",
+            "name": "Lettres et sciences humaines ",
+            "institution_id": "74"
         },
         {
-            "codeFac": "274",
-            "nomFac": "Sciences d'appui à l'enseignement ",
-            "univ": "74"
+            "id": "274",
+            "name": "Sciences d'appui à l'enseignement ",
+            "institution_id": "74"
         },
         {
-            "codeFac": "275",
-            "nomFac": "Sciences naturelles et exactes",
-            "univ": "74"
+            "id": "275",
+            "name": "Sciences naturelles et exactes",
+            "institution_id": "74"
         },
         {
-            "codeFac": "276",
-            "nomFac": "L'économie et gestion ",
-            "univ": "74"
+            "id": "276",
+            "name": "L'économie et gestion ",
+            "institution_id": "74"
         },
         {
-            "codeFac": "277",
-            "nomFac": "Coupe et couture ",
-            "univ": "76"
+            "id": "277",
+            "name": "Coupe et couture ",
+            "institution_id": "76"
         },
         {
-            "codeFac": "278",
-            "nomFac": "Modélisme ",
-            "univ": "76"
+            "id": "278",
+            "name": "Modélisme ",
+            "institution_id": "76"
         },
         {
-            "codeFac": "279",
-            "nomFac": "Hôtellerie et tourisme ",
-            "univ": "76"
+            "id": "279",
+            "name": "Hôtellerie et tourisme ",
+            "institution_id": "76"
         },
         {
-            "codeFac": "280",
-            "nomFac": "Économie ",
-            "univ": "68"
+            "id": "280",
+            "name": "Économie ",
+            "institution_id": "68"
         },
         {
-            "codeFac": "281",
-            "nomFac": "Management ",
-            "univ": "68"
+            "id": "281",
+            "name": "Management ",
+            "institution_id": "68"
         },
         {
-            "codeFac": "282",
-            "nomFac": "Sciences informatiques ",
-            "univ": "68"
+            "id": "282",
+            "name": "Sciences informatiques ",
+            "institution_id": "68"
         },
         {
-            "codeFac": "283",
-            "nomFac": "G.R.H.A.S",
-            "univ": "68"
+            "id": "283",
+            "name": "G.R.H.A.S",
+            "institution_id": "68"
         },
         {
-            "codeFac": "285",
-            "nomFac": "G.B.F",
-            "univ": "68"
+            "id": "285",
+            "name": "G.B.F",
+            "institution_id": "68"
         },
         {
-            "codeFac": "286",
-            "nomFac": "Développement rural ",
-            "univ": "70"
+            "id": "286",
+            "name": "Développement rural ",
+            "institution_id": "70"
         },
         {
-            "codeFac": "287",
-            "nomFac": "Techniques Agricoles ",
-            "univ": "70"
+            "id": "287",
+            "name": "Techniques Agricoles ",
+            "institution_id": "70"
         },
         {
-            "codeFac": "288",
-            "nomFac": "S.J.P.A",
-            "univ": "77"
+            "id": "288",
+            "name": "S.J.P.A",
+            "institution_id": "77"
         },
         {
-            "codeFac": "289",
-            "nomFac": "Sciences agronomiques ",
-            "univ": "77"
+            "id": "289",
+            "name": "Sciences agronomiques ",
+            "institution_id": "77"
         },
         {
-            "codeFac": "290",
-            "nomFac": "S. P. E",
-            "univ": "77"
+            "id": "290",
+            "name": "S. P. E",
+            "institution_id": "77"
         },
         {
-            "codeFac": "291",
-            "nomFac": "Sciences d'économie et gestion ",
-            "univ": "77"
+            "id": "291",
+            "name": "Sciences d'économie et gestion ",
+            "institution_id": "77"
         },
         {
-            "codeFac": "292",
-            "nomFac": "Sciences infirmières ",
-            "univ": "78"
+            "id": "292",
+            "name": "Sciences infirmières ",
+            "institution_id": "78"
         },
         {
-            "codeFac": "293",
-            "nomFac": "Gestion",
-            "univ": "78"
+            "id": "293",
+            "name": "Gestion",
+            "institution_id": "78"
         },
         {
-            "codeFac": "294",
-            "nomFac": "Sciences infirmières ",
-            "univ": "69"
+            "id": "294",
+            "name": "Sciences infirmières ",
+            "institution_id": "69"
         },
         {
-            "codeFac": "295",
-            "nomFac": "Nutrition et diététique ",
-            "univ": "69"
+            "id": "295",
+            "name": "Nutrition et diététique ",
+            "institution_id": "69"
         },
         {
-            "codeFac": "296",
-            "nomFac": "Logistique ",
-            "univ": "69"
+            "id": "296",
+            "name": "Logistique ",
+            "institution_id": "69"
         },
         {
-            "codeFac": "297",
-            "nomFac": "G.M.S.S",
-            "univ": "69"
+            "id": "297",
+            "name": "G.M.S.S",
+            "institution_id": "69"
         },
         {
-            "codeFac": "298",
-            "nomFac": "G.I.S",
-            "univ": "69"
+            "id": "298",
+            "name": "G.I.S",
+            "institution_id": "69"
         },
         {
-            "codeFac": "299",
-            "nomFac": "Bio médical ",
-            "univ": "69"
+            "id": "299",
+            "name": "Bio médical ",
+            "institution_id": "69"
         },
         {
-            "codeFac": "300",
-            "nomFac": "Sciences de l'homme et de la société ",
-            "univ": "80"
+            "id": "300",
+            "name": "Sciences de l'homme et de la société ",
+            "institution_id": "80"
         },
         {
-            "codeFac": "301",
-            "nomFac": "Domaine des Lettres, Langues et Arts ",
-            "univ": "72"
+            "id": "301",
+            "name": "Domaine des Lettres, Langues et Arts ",
+            "institution_id": "72"
         },
         {
-            "codeFac": "302",
-            "nomFac": "Sciences et technologies ",
-            "univ": "72"
+            "id": "302",
+            "name": "Sciences et technologies ",
+            "institution_id": "72"
         },
         {
-            "codeFac": "303",
-            "nomFac": "Sciences économie de gestion ",
-            "univ": "72"
+            "id": "303",
+            "name": "Sciences économie de gestion ",
+            "institution_id": "72"
         },
         {
-            "codeFac": "304",
-            "nomFac": "Sciences de l'homme et de la société ",
-            "univ": "72"
+            "id": "304",
+            "name": "Sciences de l'homme et de la société ",
+            "institution_id": "72"
         },
         {
-            "codeFac": "305",
-            "nomFac": "Sciences psychologique et de l'éducation ",
-            "univ": "72"
+            "id": "305",
+            "name": "Sciences psychologique et de l'éducation ",
+            "institution_id": "72"
         },
         {
-            "codeFac": "306",
-            "nomFac": "Sciences Infirmières",
-            "univ": "63"
+            "id": "306",
+            "name": "Sciences Infirmières",
+            "institution_id": "63"
         },
         {
-            "codeFac": "307",
-            "nomFac": "Techniques de Laboratoire",
-            "univ": "63"
+            "id": "307",
+            "name": "Techniques de Laboratoire",
+            "institution_id": "63"
         },
         {
-            "codeFac": "308",
-            "nomFac": "Technique de Laboratoire",
-            "univ": "60"
+            "id": "308",
+            "name": "Technique de Laboratoire",
+            "institution_id": "60"
         },
         {
-            "codeFac": "309",
-            "nomFac": "Sciences Infirmières",
-            "univ": "81"
+            "id": "309",
+            "name": "Sciences Infirmières",
+            "institution_id": "81"
         },
         {
-            "codeFac": "310",
-            "nomFac": "Techniques de Laboratoire",
-            "univ": "81"
+            "id": "310",
+            "name": "Techniques de Laboratoire",
+            "institution_id": "81"
         },
         {
-            "codeFac": "311",
-            "nomFac": "TECHNIQUES AGRICOLES ",
-            "univ": "82"
+            "id": "311",
+            "name": "TECHNIQUES AGRICOLES ",
+            "institution_id": "82"
         },
         {
-            "codeFac": "312",
-            "nomFac": "GESTION DE RESSOURCES NATURELLES renouvelables ",
-            "univ": "82"
+            "id": "312",
+            "name": "GESTION DE RESSOURCES NATURELLES renouvelables ",
+            "institution_id": "82"
         },
         {
-            "codeFac": "313",
-            "nomFac": "G.I",
-            "univ": "83"
+            "id": "313",
+            "name": "G.I",
+            "institution_id": "83"
         },
         {
-            "codeFac": "314",
-            "nomFac": "T.S.D",
-            "univ": "83"
+            "id": "314",
+            "name": "T.S.D",
+            "institution_id": "83"
         },
         {
-            "codeFac": "315",
-            "nomFac": "S.C.F",
-            "univ": "83"
+            "id": "315",
+            "name": "S.C.F",
+            "institution_id": "83"
         },
         {
-            "codeFac": "316",
-            "nomFac": "G.E.E",
-            "univ": "83"
+            "id": "316",
+            "name": "G.E.E",
+            "institution_id": "83"
         },
         {
-            "codeFac": "317",
-            "nomFac": "Santé communautaire ",
-            "univ": "84"
+            "id": "317",
+            "name": "Santé communautaire ",
+            "institution_id": "84"
         },
         {
-            "codeFac": "318",
-            "nomFac": "EASI",
-            "univ": "84"
+            "id": "318",
+            "name": "EASI",
+            "institution_id": "84"
         },
         {
-            "codeFac": "319",
-            "nomFac": "Sciences infirmières ",
-            "univ": "84"
+            "id": "319",
+            "name": "Sciences infirmières ",
+            "institution_id": "84"
         },
         {
-            "codeFac": "321",
-            "nomFac": "LETTRES ET SCIENCES HUMAINES ",
-            "univ": "79"
+            "id": "321",
+            "name": "LETTRES ET SCIENCES HUMAINES ",
+            "institution_id": "79"
         },
         {
-            "codeFac": "322",
-            "nomFac": " Sciences naturelles et exactes ",
-            "univ": "79"
+            "id": "322",
+            "name": " Sciences naturelles et exactes ",
+            "institution_id": "79"
         },
         {
-            "codeFac": "323",
-            "nomFac": "Sections d'école d'application ",
-            "univ": "79"
+            "id": "323",
+            "name": "Sections d'école d'application ",
+            "institution_id": "79"
         },
         {
-            "codeFac": "324",
-            "nomFac": "Sciences d'appui à l'enseignement ",
-            "univ": "79"
+            "id": "324",
+            "name": "Sciences d'appui à l'enseignement ",
+            "institution_id": "79"
         },
         {
-            "codeFac": "325",
-            "nomFac": "BIBLIOTHÈQUE CENTRALE ",
-            "univ": "79"
+            "id": "325",
+            "name": "BIBLIOTHÈQUE CENTRALE ",
+            "institution_id": "79"
         },
         {
-            "codeFac": "326",
-            "nomFac": "Français et langues africaines ",
-            "univ": "86"
+            "id": "326",
+            "name": "Français et langues africaines ",
+            "institution_id": "86"
         },
         {
-            "codeFac": "327",
-            "nomFac": "Anglais et culture africaine ",
-            "univ": "86"
+            "id": "327",
+            "name": "Anglais et culture africaine ",
+            "institution_id": "86"
         },
         {
-            "codeFac": "328",
-            "nomFac": "GAISF",
-            "univ": "86"
+            "id": "328",
+            "name": "GAISF",
+            "institution_id": "86"
         },
         {
-            "codeFac": "331",
-            "nomFac": "Histoire ",
-            "univ": "86"
+            "id": "331",
+            "name": "Histoire ",
+            "institution_id": "86"
         },
         {
-            "codeFac": "332",
-            "nomFac": "G.C.A",
-            "univ": "86"
+            "id": "332",
+            "name": "G.C.A",
+            "institution_id": "86"
         },
         {
-            "codeFac": "333",
-            "nomFac": "Math-physique",
-            "univ": "86"
+            "id": "333",
+            "name": "Math-physique",
+            "institution_id": "86"
         },
         {
-            "codeFac": "334",
-            "nomFac": "Math-info",
-            "univ": "86"
+            "id": "334",
+            "name": "Math-info",
+            "institution_id": "86"
         },
         {
-            "codeFac": "335",
-            "nomFac": "P.D.C",
-            "univ": "86"
+            "id": "335",
+            "name": "P.D.C",
+            "institution_id": "86"
         },
         {
-            "codeFac": "336",
-            "nomFac": "Production et santé animale ",
-            "univ": "86"
+            "id": "336",
+            "name": "Production et santé animale ",
+            "institution_id": "86"
         },
         {
-            "codeFac": "337",
-            "nomFac": "Informatique et technologies ",
-            "univ": "86"
+            "id": "337",
+            "name": "Informatique et technologies ",
+            "institution_id": "86"
         },
         {
-            "codeFac": "338",
-            "nomFac": "GAISF",
-            "univ": "87"
+            "id": "338",
+            "name": "GAISF",
+            "institution_id": "87"
         },
         {
-            "codeFac": "339",
-            "nomFac": "FLA",
-            "univ": "87"
+            "id": "339",
+            "name": "FLA",
+            "institution_id": "87"
         },
         {
-            "codeFac": "340",
-            "nomFac": "HISTOIRE ",
-            "univ": "87"
+            "id": "340",
+            "name": "HISTOIRE ",
+            "institution_id": "87"
         },
         {
-            "codeFac": "341",
-            "nomFac": "S.A.V",
-            "univ": "87"
+            "id": "341",
+            "name": "S.A.V",
+            "institution_id": "87"
         },
         {
-            "codeFac": "342",
-            "nomFac": "Informatique de gestion ",
-            "univ": "87"
+            "id": "342",
+            "name": "Informatique de gestion ",
+            "institution_id": "87"
         },
         {
-            "codeFac": "343",
-            "nomFac": "Développement rural ",
-            "univ": "63"
+            "id": "343",
+            "name": "Développement rural ",
+            "institution_id": "63"
         },
         {
-            "codeFac": "344",
-            "nomFac": "Développement rural ",
-            "univ": "88"
+            "id": "344",
+            "name": "Développement rural ",
+            "institution_id": "88"
         },
         {
-            "codeFac": "345",
-            "nomFac": "Peda et Tech Appli",
-            "univ": "90"
+            "id": "345",
+            "name": "Peda et Tech Appli",
+            "institution_id": "90"
         },
         {
-            "codeFac": "346",
-            "nomFac": "Soins Généraux",
-            "univ": "94"
+            "id": "346",
+            "name": "Soins Généraux",
+            "institution_id": "94"
         },
         {
-            "codeFac": "347",
-            "nomFac": "Soins pédiatriques ",
-            "univ": "94"
+            "id": "347",
+            "name": "Soins pédiatriques ",
+            "institution_id": "94"
         },
         {
-            "codeFac": "348",
-            "nomFac": "ENS et Adm en soins infirmiers ",
-            "univ": "94"
+            "id": "348",
+            "name": "ENS et Adm en soins infirmiers ",
+            "institution_id": "94"
         },
         {
-            "codeFac": "349",
-            "nomFac": "GEST des orga de santé ",
-            "univ": "94"
+            "id": "349",
+            "name": "GEST des orga de santé ",
+            "institution_id": "94"
         },
         {
-            "codeFac": "350",
-            "nomFac": "Épidémiologie ",
-            "univ": "94"
+            "id": "350",
+            "name": "Épidémiologie ",
+            "institution_id": "94"
         },
         {
-            "codeFac": "351",
-            "nomFac": "Tech d'habillement",
-            "univ": "95"
+            "id": "351",
+            "name": "Tech d'habillement",
+            "institution_id": "95"
         },
         {
-            "codeFac": "352",
-            "nomFac": "Modélisme ",
-            "univ": "95"
+            "id": "352",
+            "name": "Modélisme ",
+            "institution_id": "95"
         },
         {
-            "codeFac": "353",
-            "nomFac": "LSH",
-            "univ": "96"
+            "id": "353",
+            "name": "LSH",
+            "institution_id": "96"
         },
         {
-            "codeFac": "354",
-            "nomFac": "SAE",
-            "univ": "96"
+            "id": "354",
+            "name": "SAE",
+            "institution_id": "96"
         },
         {
-            "codeFac": "355",
-            "nomFac": "SNE",
-            "univ": "96"
+            "id": "355",
+            "name": "SNE",
+            "institution_id": "96"
         },
         {
-            "codeFac": "356",
-            "nomFac": "LLASL",
-            "univ": "97"
+            "id": "356",
+            "name": "LLASL",
+            "institution_id": "97"
         },
         {
-            "codeFac": "357",
-            "nomFac": "SNE",
-            "univ": "97"
+            "id": "357",
+            "name": "SNE",
+            "institution_id": "97"
         },
         {
-            "codeFac": "358",
-            "nomFac": "SEG",
-            "univ": "97"
+            "id": "358",
+            "name": "SEG",
+            "institution_id": "97"
         },
         {
-            "codeFac": "359",
-            "nomFac": "SPE",
-            "univ": "97"
+            "id": "359",
+            "name": "SPE",
+            "institution_id": "97"
         },
         {
-            "codeFac": "360",
-            "nomFac": "ST",
-            "univ": "97"
+            "id": "360",
+            "name": "ST",
+            "institution_id": "97"
         },
         {
-            "codeFac": "361",
-            "nomFac": "Santé Publique ",
-            "univ": "66"
+            "id": "361",
+            "name": "Santé Publique ",
+            "institution_id": "66"
         },
         {
-            "codeFac": "362",
-            "nomFac": "Sciences et Tech.",
-            "univ": "66"
+            "id": "362",
+            "name": "Sciences et Tech.",
+            "institution_id": "66"
         },
         {
-            "codeFac": "363",
-            "nomFac": "Lettre et Sces H",
-            "univ": "56"
+            "id": "363",
+            "name": "Lettre et Sces H",
+            "institution_id": "56"
         },
         {
-            "codeFac": "364",
-            "nomFac": "Sces Nat et Exact",
-            "univ": "56"
+            "id": "364",
+            "name": "Sces Nat et Exact",
+            "institution_id": "56"
         },
         {
-            "codeFac": "365",
-            "nomFac": "Sces Sociale ",
-            "univ": "56"
+            "id": "365",
+            "name": "Sces Sociale ",
+            "institution_id": "56"
         },
         {
-            "codeFac": "366",
-            "nomFac": "Sces A. E",
-            "univ": "56"
+            "id": "366",
+            "name": "Sces A. E",
+            "institution_id": "56"
         },
         {
-            "codeFac": "367",
-            "nomFac": "L.L. Art",
-            "univ": "56"
+            "id": "367",
+            "name": "L.L. Art",
+            "institution_id": "56"
         },
         {
-            "codeFac": "368",
-            "nomFac": "Sces L'H et S.",
-            "univ": "56"
+            "id": "368",
+            "name": "Sces L'H et S.",
+            "institution_id": "56"
         },
         {
-            "codeFac": "369",
-            "nomFac": "Sces Eco et Gest.",
-            "univ": "56"
+            "id": "369",
+            "name": "Sces Eco et Gest.",
+            "institution_id": "56"
         },
         {
-            "codeFac": "370",
-            "nomFac": "Sces Psy et Éduc.",
-            "univ": "56"
+            "id": "370",
+            "name": "Sces Psy et Éduc.",
+            "institution_id": "56"
         },
         {
-            "codeFac": "371",
-            "nomFac": "Sces et Tech",
-            "univ": "56"
+            "id": "371",
+            "name": "Sces et Tech",
+            "institution_id": "56"
         },
         {
-            "codeFac": "372",
-            "nomFac": "FLA",
-            "univ": "100"
+            "id": "372",
+            "name": "FLA",
+            "institution_id": "100"
         },
         {
-            "codeFac": "373",
-            "nomFac": "AGROVET",
-            "univ": "100"
+            "id": "373",
+            "name": "AGROVET",
+            "institution_id": "100"
         },
         {
-            "codeFac": "374",
-            "nomFac": "H.S.S.G.P",
-            "univ": "100"
+            "id": "374",
+            "name": "H.S.S.G.P",
+            "institution_id": "100"
         },
         {
-            "codeFac": "375",
-            "nomFac": "S.C.A",
-            "univ": "100"
+            "id": "375",
+            "name": "S.C.A",
+            "institution_id": "100"
         },
         {
-            "codeFac": "376",
-            "nomFac": "GAISF",
-            "univ": "100"
+            "id": "376",
+            "name": "GAISF",
+            "institution_id": "100"
         },
         {
-            "codeFac": "377",
-            "nomFac": "Imagerie Médicale",
-            "univ": "101"
+            "id": "377",
+            "name": "Imagerie Médicale",
+            "institution_id": "101"
         },
         {
-            "codeFac": "378",
-            "nomFac": "Kinésithérapie",
-            "univ": "101"
+            "id": "378",
+            "name": "Kinésithérapie",
+            "institution_id": "101"
         },
         {
-            "codeFac": "379",
-            "nomFac": "Sage-Femme",
-            "univ": "101"
+            "id": "379",
+            "name": "Sage-Femme",
+            "institution_id": "101"
         },
         {
-            "codeFac": "380",
-            "nomFac": "Technique de Laboratoire",
-            "univ": "101"
+            "id": "380",
+            "name": "Technique de Laboratoire",
+            "institution_id": "101"
         },
         {
-            "codeFac": "381",
-            "nomFac": "Nutrition Humaine",
-            "univ": "101"
+            "id": "381",
+            "name": "Nutrition Humaine",
+            "institution_id": "101"
         },
         {
-            "codeFac": "382",
-            "nomFac": "Pédiatrie",
-            "univ": "101"
+            "id": "382",
+            "name": "Pédiatrie",
+            "institution_id": "101"
         },
         {
-            "codeFac": "383",
-            "nomFac": "Gestion des Institutions de Santé",
-            "univ": "101"
+            "id": "383",
+            "name": "Gestion des Institutions de Santé",
+            "institution_id": "101"
         },
         {
-            "codeFac": "384",
-            "nomFac": "Sciences Agronomiques et Veterinaires",
-            "univ": "102"
+            "id": "384",
+            "name": "Sciences Agronomiques et Veterinaires",
+            "institution_id": "102"
         },
         {
-            "codeFac": "385",
-            "nomFac": "Sciences de Développement",
-            "univ": "102"
+            "id": "385",
+            "name": "Sciences de Développement",
+            "institution_id": "102"
         },
         {
-            "codeFac": "386",
-            "nomFac": "Sciences de L'information et de la Communication",
-            "univ": "102"
+            "id": "386",
+            "name": "Sciences de L'information et de la Communication",
+            "institution_id": "102"
         },
         {
-            "codeFac": "387",
-            "nomFac": "Sciences Juridiques, Politiques et Administratives",
-            "univ": "102"
+            "id": "387",
+            "name": "Sciences Juridiques, Politiques et Administratives",
+            "institution_id": "102"
         },
         {
-            "codeFac": "388",
-            "nomFac": "Sciences Appliquées",
-            "univ": "102"
+            "id": "388",
+            "name": "Sciences Appliquées",
+            "institution_id": "102"
         },
         {
-            "codeFac": "389",
-            "nomFac": "Sciences Juridiques",
-            "univ": "103"
+            "id": "389",
+            "name": "Sciences Juridiques",
+            "institution_id": "103"
         },
         {
-            "codeFac": "390",
-            "nomFac": "Sciences Informatiques",
-            "univ": "103"
+            "id": "390",
+            "name": "Sciences Informatiques",
+            "institution_id": "103"
         },
         {
-            "codeFac": "391",
-            "nomFac": "Sciences de l'Education",
-            "univ": "103"
+            "id": "391",
+            "name": "Sciences de l'Education",
+            "institution_id": "103"
         },
         {
-            "codeFac": "392",
-            "nomFac": "Psychologie",
-            "univ": "103"
+            "id": "392",
+            "name": "Psychologie",
+            "institution_id": "103"
         },
         {
-            "codeFac": "393",
-            "nomFac": "Droit",
-            "univ": "103"
+            "id": "393",
+            "name": "Droit",
+            "institution_id": "103"
         },
         {
-            "codeFac": "394",
-            "nomFac": "Administration et Planification de L'éducation",
-            "univ": "103"
+            "id": "394",
+            "name": "Administration et Planification de L'éducation",
+            "institution_id": "103"
         },
         {
-            "codeFac": "395",
-            "nomFac": "Lettres et Sciences Humaines",
-            "univ": "104"
+            "id": "395",
+            "name": "Lettres et Sciences Humaines",
+            "institution_id": "104"
         },
         {
-            "codeFac": "398",
-            "nomFac": "GAISF",
-            "univ": "105"
+            "id": "398",
+            "name": "GAISF",
+            "institution_id": "105"
         },
         {
-            "codeFac": "399",
-            "nomFac": "FLA",
-            "univ": "105"
+            "id": "399",
+            "name": "FLA",
+            "institution_id": "105"
         },
         {
-            "codeFac": "400",
-            "nomFac": "S.H",
-            "univ": "105"
+            "id": "400",
+            "name": "S.H",
+            "institution_id": "105"
         },
         {
-            "codeFac": "401",
-            "nomFac": "GEG",
-            "univ": "105"
+            "id": "401",
+            "name": "GEG",
+            "institution_id": "105"
         },
         {
-            "codeFac": "402",
-            "nomFac": "S.AV",
-            "univ": "105"
+            "id": "402",
+            "name": "S.AV",
+            "institution_id": "105"
         },
         {
-            "codeFac": "403",
-            "nomFac": "ACA",
-            "univ": "105"
+            "id": "403",
+            "name": "ACA",
+            "institution_id": "105"
         },
         {
-            "codeFac": "404",
-            "nomFac": "S.I.C",
-            "univ": "89"
+            "id": "404",
+            "name": "S.I.C",
+            "institution_id": "89"
         },
         {
-            "codeFac": "405",
-            "nomFac": "Sces Éduc. et Paix",
-            "univ": "89"
+            "id": "405",
+            "name": "Sces Éduc. et Paix",
+            "institution_id": "89"
         },
         {
-            "codeFac": "406",
-            "nomFac": "Sces Agro.",
-            "univ": "89"
+            "id": "406",
+            "name": "Sces Agro.",
+            "institution_id": "89"
         },
         {
-            "codeFac": "407",
-            "nomFac": "Sces Eco. Et Gest.",
-            "univ": "89"
+            "id": "407",
+            "name": "Sces Eco. Et Gest.",
+            "institution_id": "89"
         },
         {
-            "codeFac": "408",
-            "nomFac": "Sces Psy et Éduc.",
-            "univ": "89"
+            "id": "408",
+            "name": "Sces Psy et Éduc.",
+            "institution_id": "89"
         },
         {
-            "codeFac": "409",
-            "nomFac": "Santé Publique ",
-            "univ": "89"
+            "id": "409",
+            "name": "Santé Publique ",
+            "institution_id": "89"
         },
         {
-            "codeFac": "410",
-            "nomFac": "Sciences de Lettres, Langues et Arts",
-            "univ": "107"
+            "id": "410",
+            "name": "Sciences de Lettres, Langues et Arts",
+            "institution_id": "107"
         },
         {
-            "codeFac": "411",
-            "nomFac": "Sciences et Technologie",
-            "univ": "107"
+            "id": "411",
+            "name": "Sciences et Technologie",
+            "institution_id": "107"
         },
         {
-            "codeFac": "412",
-            "nomFac": "Sciences Economiques et de Gestion",
-            "univ": "107"
+            "id": "412",
+            "name": "Sciences Economiques et de Gestion",
+            "institution_id": "107"
         },
         {
-            "codeFac": "413",
-            "nomFac": "Sciences Psychologique et de l'Education",
-            "univ": "107"
+            "id": "413",
+            "name": "Sciences Psychologique et de l'Education",
+            "institution_id": "107"
         },
         {
-            "codeFac": "414",
-            "nomFac": "Sciences de l'Homme et de la Société",
-            "univ": "107"
+            "id": "414",
+            "name": "Sciences de l'Homme et de la Société",
+            "institution_id": "107"
         },
         {
-            "codeFac": "415",
-            "nomFac": "Sciences Economiques Et De Gestion ",
-            "univ": "108"
+            "id": "415",
+            "name": "Sciences Economiques Et De Gestion ",
+            "institution_id": "108"
         },
         {
-            "codeFac": "416",
-            "nomFac": "Préparatoire",
-            "univ": "109"
+            "id": "416",
+            "name": "Préparatoire",
+            "institution_id": "109"
         },
         {
-            "codeFac": "417",
-            "nomFac": "Bâtiment et Travaux publics",
-            "univ": "109"
+            "id": "417",
+            "name": "Bâtiment et Travaux publics",
+            "institution_id": "109"
         },
         {
-            "codeFac": "418",
-            "nomFac": "Géomètre Topographe",
-            "univ": "109"
+            "id": "418",
+            "name": "Géomètre Topographe",
+            "institution_id": "109"
         },
         {
-            "codeFac": "419",
-            "nomFac": "Archtecture",
-            "univ": "109"
+            "id": "419",
+            "name": "Archtecture",
+            "institution_id": "109"
         },
         {
-            "codeFac": "420",
-            "nomFac": "Théo Prot.",
-            "univ": "89"
+            "id": "420",
+            "name": "Théo Prot.",
+            "institution_id": "89"
         },
         {
-            "codeFac": "421",
-            "nomFac": "Droit ",
-            "univ": "91"
+            "id": "421",
+            "name": "Droit ",
+            "institution_id": "91"
         },
         {
-            "codeFac": "422",
-            "nomFac": "Économie ",
-            "univ": "91"
+            "id": "422",
+            "name": "Économie ",
+            "institution_id": "91"
         },
         {
-            "codeFac": "423",
-            "nomFac": "Agronomie ",
-            "univ": "91"
+            "id": "423",
+            "name": "Agronomie ",
+            "institution_id": "91"
         },
         {
-            "codeFac": "424",
-            "nomFac": "S.S.P.A",
-            "univ": "91"
+            "id": "424",
+            "name": "S.S.P.A",
+            "institution_id": "91"
         },
         {
-            "codeFac": "425",
-            "nomFac": "Santé Publique ",
-            "univ": "91"
+            "id": "425",
+            "name": "Santé Publique ",
+            "institution_id": "91"
         },
         {
-            "codeFac": "426",
-            "nomFac": "Sces Ingénieur ",
-            "univ": "91"
+            "id": "426",
+            "name": "Sces Ingénieur ",
+            "institution_id": "91"
         },
         {
-            "codeFac": "427",
-            "nomFac": "Dev. Com et Envi.",
-            "univ": "91"
+            "id": "427",
+            "name": "Dev. Com et Envi.",
+            "institution_id": "91"
         },
         {
-            "codeFac": "428",
-            "nomFac": "Sces Géologie ",
-            "univ": "91"
+            "id": "428",
+            "name": "Sces Géologie ",
+            "institution_id": "91"
         },
         {
-            "codeFac": "429",
-            "nomFac": "Psy. Sces Éduc ",
-            "univ": "91"
+            "id": "429",
+            "name": "Psy. Sces Éduc ",
+            "institution_id": "91"
         },
         {
-            "codeFac": "430",
-            "nomFac": "Préparatoire",
-            "univ": "67"
+            "id": "430",
+            "name": "Préparatoire",
+            "institution_id": "67"
         },
         {
-            "codeFac": "431",
-            "nomFac": "Mécanique de Production",
-            "univ": "67"
+            "id": "431",
+            "name": "Mécanique de Production",
+            "institution_id": "67"
         },
         {
-            "codeFac": "432",
-            "nomFac": "Electrotechnique",
-            "univ": "67"
+            "id": "432",
+            "name": "Electrotechnique",
+            "institution_id": "67"
         },
         {
-            "codeFac": "433",
-            "nomFac": "Mécanique de Production",
-            "univ": "67"
+            "id": "433",
+            "name": "Mécanique de Production",
+            "institution_id": "67"
         },
         {
-            "codeFac": "434",
-            "nomFac": "Mécanique Energétique",
-            "univ": "67"
+            "id": "434",
+            "name": "Mécanique Energétique",
+            "institution_id": "67"
         },
         {
-            "codeFac": "435",
-            "nomFac": "Mécanique Appliquée",
-            "univ": "67"
+            "id": "435",
+            "name": "Mécanique Appliquée",
+            "institution_id": "67"
         },
         {
-            "codeFac": "436",
-            "nomFac": "Electronique",
-            "univ": "67"
+            "id": "436",
+            "name": "Electronique",
+            "institution_id": "67"
         },
         {
-            "codeFac": "437",
-            "nomFac": "Informatique",
-            "univ": "67"
+            "id": "437",
+            "name": "Informatique",
+            "institution_id": "67"
         },
         {
-            "codeFac": "438",
-            "nomFac": "Construction Mécanique",
-            "univ": "67"
+            "id": "438",
+            "name": "Construction Mécanique",
+            "institution_id": "67"
         },
         {
-            "codeFac": "439",
-            "nomFac": "Maintenance des Matériaux Médicaux",
-            "univ": "67"
+            "id": "439",
+            "name": "Maintenance des Matériaux Médicaux",
+            "institution_id": "67"
         },
         {
-            "codeFac": "440",
-            "nomFac": "E.A.S.I",
-            "univ": "60"
+            "id": "440",
+            "name": "E.A.S.I",
+            "institution_id": "60"
         },
         {
-            "codeFac": "441",
-            "nomFac": "Sage-Femme",
-            "univ": "60"
+            "id": "441",
+            "name": "Sage-Femme",
+            "institution_id": "60"
         },
         {
-            "codeFac": "442",
-            "nomFac": "Pédiatrie",
-            "univ": "60"
+            "id": "442",
+            "name": "Pédiatrie",
+            "institution_id": "60"
         },
         {
-            "codeFac": "443",
-            "nomFac": "Nutrition",
-            "univ": "60"
+            "id": "443",
+            "name": "Nutrition",
+            "institution_id": "60"
         },
         {
-            "codeFac": "444",
-            "nomFac": "Sciences et Techniques de développement",
-            "univ": "110"
+            "id": "444",
+            "name": "Sciences et Techniques de développement",
+            "institution_id": "110"
         },
         {
-            "codeFac": "445",
-            "nomFac": "Sciences commerciales et Financieres",
-            "univ": "110"
+            "id": "445",
+            "name": "Sciences commerciales et Financieres",
+            "institution_id": "110"
         },
         {
-            "codeFac": "446",
-            "nomFac": "Technique Agricole",
-            "univ": "111"
+            "id": "446",
+            "name": "Technique Agricole",
+            "institution_id": "111"
         },
         {
-            "codeFac": "447",
-            "nomFac": "Développement Rural",
-            "univ": "111"
+            "id": "447",
+            "name": "Développement Rural",
+            "institution_id": "111"
         },
         {
-            "codeFac": "448",
-            "nomFac": "Gestion des Entr. Dev. Rural",
-            "univ": "111"
+            "id": "448",
+            "name": "Gestion des Entr. Dev. Rural",
+            "institution_id": "111"
         },
         {
-            "codeFac": "449",
-            "nomFac": "Planification Régionale et Nationale",
-            "univ": "111"
+            "id": "449",
+            "name": "Planification Régionale et Nationale",
+            "institution_id": "111"
         },
         {
-            "codeFac": "450",
-            "nomFac": "Env. Dév. Durable",
-            "univ": "111"
+            "id": "450",
+            "name": "Env. Dév. Durable",
+            "institution_id": "111"
         },
         {
-            "codeFac": "451",
-            "nomFac": "FLA",
-            "univ": "112"
+            "id": "451",
+            "name": "FLA",
+            "institution_id": "112"
         },
         {
-            "codeFac": "453",
-            "nomFac": "ACA",
-            "univ": "112"
+            "id": "453",
+            "name": "ACA",
+            "institution_id": "112"
         },
         {
-            "codeFac": "454",
-            "nomFac": "Histoire Sciences Sociales et Gestion du Patrimoine",
-            "univ": "112"
+            "id": "454",
+            "name": "Histoire Sciences Sociales et Gestion du Patrimoine",
+            "institution_id": "112"
         },
         {
-            "codeFac": "455",
-            "nomFac": "Géo. Gest. de l'environnement",
-            "univ": "112"
+            "id": "455",
+            "name": "Géo. Gest. de l'environnement",
+            "institution_id": "112"
         },
         {
-            "codeFac": "456",
-            "nomFac": "Math-Physique",
-            "univ": "112"
+            "id": "456",
+            "name": "Math-Physique",
+            "institution_id": "112"
         },
         {
-            "codeFac": "457",
-            "nomFac": "Gest. Admin. Inst. Scol. et de Formation",
-            "univ": "112"
+            "id": "457",
+            "name": "Gest. Admin. Inst. Scol. et de Formation",
+            "institution_id": "112"
         },
         {
-            "codeFac": "458",
-            "nomFac": "sciences de la santé",
-            "univ": "114"
+            "id": "458",
+            "name": "sciences de la santé",
+            "institution_id": "114"
         },
         {
-            "codeFac": "459",
-            "nomFac": "Sciences Juridiques, Politiques et Administratives ",
-            "univ": "114"
+            "id": "459",
+            "name": "Sciences Juridiques, Politiques et Administratives ",
+            "institution_id": "114"
         },
         {
-            "codeFac": "460",
-            "nomFac": "Sciences Psychologiques et de l’Education",
-            "univ": "114"
+            "id": "460",
+            "name": "Sciences Psychologiques et de l’Education",
+            "institution_id": "114"
         },
         {
-            "codeFac": "461",
-            "nomFac": "Sciences Agronomiques et Environnement ",
-            "univ": "114"
+            "id": "461",
+            "name": "Sciences Agronomiques et Environnement ",
+            "institution_id": "114"
         },
         {
-            "codeFac": "462",
-            "nomFac": "Biologie-Chimie",
-            "univ": "118"
+            "id": "462",
+            "name": "Biologie-Chimie",
+            "institution_id": "118"
         },
         {
-            "codeFac": "464",
-            "nomFac": "Mathématiques-Physique",
-            "univ": "118"
+            "id": "464",
+            "name": "Mathématiques-Physique",
+            "institution_id": "118"
         },
         {
-            "codeFac": "465",
-            "nomFac": "Conception des Systèmes Informatiques",
-            "univ": "118"
+            "id": "465",
+            "name": "Conception des Systèmes Informatiques",
+            "institution_id": "118"
         },
         {
-            "codeFac": "466",
-            "nomFac": "Géographie et Gestion de l'Environnement",
-            "univ": "118"
+            "id": "466",
+            "name": "Géographie et Gestion de l'Environnement",
+            "institution_id": "118"
         },
         {
-            "codeFac": "467",
-            "nomFac": "Pyrotechnie et Défense des Cultures",
-            "univ": "118"
+            "id": "467",
+            "name": "Pyrotechnie et Défense des Cultures",
+            "institution_id": "118"
         },
         {
-            "codeFac": "468",
-            "nomFac": "Production et Santé Animales",
-            "univ": "118"
+            "id": "468",
+            "name": "Production et Santé Animales",
+            "institution_id": "118"
         },
         {
-            "codeFac": "469",
-            "nomFac": "Anglais-Culture Africaine",
-            "univ": "118"
+            "id": "469",
+            "name": "Anglais-Culture Africaine",
+            "institution_id": "118"
         },
         {
-            "codeFac": "470",
-            "nomFac": "Français-Langue Africaines",
-            "univ": "118"
+            "id": "470",
+            "name": "Français-Langue Africaines",
+            "institution_id": "118"
         },
         {
-            "codeFac": "471",
-            "nomFac": "Histoire",
-            "univ": "118"
+            "id": "471",
+            "name": "Histoire",
+            "institution_id": "118"
         },
         {
-            "codeFac": "472",
-            "nomFac": "Gestion Commerciale et Admnistrative",
-            "univ": "118"
+            "id": "472",
+            "name": "Gestion Commerciale et Admnistrative",
+            "institution_id": "118"
         },
         {
-            "codeFac": "473",
-            "nomFac": "Gestion et Administration scolaires et de formation",
-            "univ": "118"
+            "id": "473",
+            "name": "Gestion et Administration scolaires et de formation",
+            "institution_id": "118"
         },
         {
-            "codeFac": "474",
-            "nomFac": "Droit",
-            "univ": "117"
+            "id": "474",
+            "name": "Droit",
+            "institution_id": "117"
         },
         {
-            "codeFac": "475",
-            "nomFac": "Sciences Sociales, Politiques et Administratives",
-            "univ": "117"
+            "id": "475",
+            "name": "Sciences Sociales, Politiques et Administratives",
+            "institution_id": "117"
         },
         {
-            "codeFac": "476",
-            "nomFac": "Psychologie et Sciences de l'éducation",
-            "univ": "117"
+            "id": "476",
+            "name": "Psychologie et Sciences de l'éducation",
+            "institution_id": "117"
         },
         {
-            "codeFac": "477",
-            "nomFac": "Santé publique",
-            "univ": "117"
+            "id": "477",
+            "name": "Santé publique",
+            "institution_id": "117"
         },
         {
-            "codeFac": "478",
-            "nomFac": "Lettres et Sciences Humaines",
-            "univ": "116"
+            "id": "478",
+            "name": "Lettres et Sciences Humaines",
+            "institution_id": "116"
         },
         {
-            "codeFac": "479",
-            "nomFac": "Sciences d'Appui à l'enseignement",
-            "univ": "116"
+            "id": "479",
+            "name": "Sciences d'Appui à l'enseignement",
+            "institution_id": "116"
         },
         {
-            "codeFac": "480",
-            "nomFac": "Sections Techniques",
-            "univ": "116"
+            "id": "480",
+            "name": "Sections Techniques",
+            "institution_id": "116"
         },
         {
-            "codeFac": "481",
-            "nomFac": "Sciences Exactes",
-            "univ": "116"
+            "id": "481",
+            "name": "Sciences Exactes",
+            "institution_id": "116"
         },
         {
-            "codeFac": "482",
-            "nomFac": "Sciences et Technologies Industrielles ",
-            "univ": "115"
+            "id": "482",
+            "name": "Sciences et Technologies Industrielles ",
+            "institution_id": "115"
         },
         {
-            "codeFac": "483",
-            "nomFac": "Art et Métiers ",
-            "univ": "115"
+            "id": "483",
+            "name": "Art et Métiers ",
+            "institution_id": "115"
         },
         {
-            "codeFac": "484",
-            "nomFac": "Sc. Psychologiques et de l'éducation",
-            "univ": "115"
+            "id": "484",
+            "name": "Sc. Psychologiques et de l'éducation",
+            "institution_id": "115"
         },
         {
-            "codeFac": "487",
-            "nomFac": "Sciences Economiques et de Gestion",
-            "univ": "115"
+            "id": "487",
+            "name": "Sciences Economiques et de Gestion",
+            "institution_id": "115"
         },
         {
-            "codeFac": "488",
-            "nomFac": "Lettres, Langues et Arts",
-            "univ": "115"
+            "id": "488",
+            "name": "Lettres, Langues et Arts",
+            "institution_id": "115"
         },
         {
-            "codeFac": "489",
-            "nomFac": "Sces Gest Com et Adm",
-            "univ": "119"
+            "id": "489",
+            "name": "Sces Gest Com et Adm",
+            "institution_id": "119"
         },
         {
-            "codeFac": "490",
-            "nomFac": "Lettres et Scs humaines",
-            "univ": "120"
+            "id": "490",
+            "name": "Lettres et Scs humaines",
+            "institution_id": "120"
         },
         {
-            "codeFac": "492",
-            "nomFac": "Sces Exactes",
-            "univ": "120"
+            "id": "492",
+            "name": "Sces Exactes",
+            "institution_id": "120"
         },
         {
-            "codeFac": "493",
-            "nomFac": "Philosophie ",
-            "univ": "122"
+            "id": "493",
+            "name": "Philosophie ",
+            "institution_id": "122"
         },
         {
-            "codeFac": "499",
-            "nomFac": "Sces Agro. Et Envi.",
-            "univ": "127"
+            "id": "499",
+            "name": "Sces Agro. Et Envi.",
+            "institution_id": "127"
         },
         {
-            "codeFac": "500",
-            "nomFac": "Sces Infirmières ",
-            "univ": "126"
+            "id": "500",
+            "name": "Sces Infirmières ",
+            "institution_id": "126"
         },
         {
-            "codeFac": "501",
-            "nomFac": "Sage Femme ",
-            "univ": "126"
+            "id": "501",
+            "name": "Sage Femme ",
+            "institution_id": "126"
         },
         {
-            "codeFac": "503",
-            "nomFac": "Nutri-Diete",
-            "univ": "126"
+            "id": "503",
+            "name": "Nutri-Diete",
+            "institution_id": "126"
         },
         {
-            "codeFac": "504",
-            "nomFac": "Tech Pharma",
-            "univ": "126"
+            "id": "504",
+            "name": "Tech Pharma",
+            "institution_id": "126"
         },
         {
-            "codeFac": "505",
-            "nomFac": "BioMed",
-            "univ": "126"
+            "id": "505",
+            "name": "BioMed",
+            "institution_id": "126"
         },
         {
-            "codeFac": "506",
-            "nomFac": "Santé Com.",
-            "univ": "126"
+            "id": "506",
+            "name": "Santé Com.",
+            "institution_id": "126"
         },
         {
-            "codeFac": "507",
-            "nomFac": "G.O. Santé ",
-            "univ": "126"
+            "id": "507",
+            "name": "G.O. Santé ",
+            "institution_id": "126"
         },
         {
-            "codeFac": "508",
-            "nomFac": "Sces Technologiques",
-            "univ": "129"
+            "id": "508",
+            "name": "Sces Technologiques",
+            "institution_id": "129"
         },
         {
-            "codeFac": "509",
-            "nomFac": "Info Appli Gest",
-            "univ": "129"
+            "id": "509",
+            "name": "Info Appli Gest",
+            "institution_id": "129"
         },
         {
-            "codeFac": "510",
-            "nomFac": "Polytech",
-            "univ": "129"
+            "id": "510",
+            "name": "Polytech",
+            "institution_id": "129"
         },
         {
-            "codeFac": "511",
-            "nomFac": "Sces Agro et Env",
-            "univ": "131"
+            "id": "511",
+            "name": "Sces Agro et Env",
+            "institution_id": "131"
         },
         {
-            "codeFac": "512",
-            "nomFac": "Sces Eco et Gest",
-            "univ": "131"
+            "id": "512",
+            "name": "Sces Eco et Gest",
+            "institution_id": "131"
         },
         {
-            "codeFac": "513",
-            "nomFac": "Médecine et Pharma",
-            "univ": "131"
+            "id": "513",
+            "name": "Médecine et Pharma",
+            "institution_id": "131"
         },
         {
-            "codeFac": "514",
-            "nomFac": "Psychologie et Sces de l'edu",
-            "univ": "131"
+            "id": "514",
+            "name": "Psychologie et Sces de l'edu",
+            "institution_id": "131"
         },
         {
-            "codeFac": "515",
-            "nomFac": "Droit ",
-            "univ": "131"
+            "id": "515",
+            "name": "Droit ",
+            "institution_id": "131"
         },
         {
-            "codeFac": "516",
-            "nomFac": "IBTP",
-            "univ": "131"
+            "id": "516",
+            "name": "IBTP",
+            "institution_id": "131"
         },
         {
-            "codeFac": "517",
-            "nomFac": "Sciences Agro et Env",
-            "univ": "132"
+            "id": "517",
+            "name": "Sciences Agro et Env",
+            "institution_id": "132"
         },
         {
-            "codeFac": "518",
-            "nomFac": "Sces Juridique , Pol et Adm",
-            "univ": "132"
+            "id": "518",
+            "name": "Sces Juridique , Pol et Adm",
+            "institution_id": "132"
         },
         {
-            "codeFac": "520",
-            "nomFac": "Sces psychologique et edu",
-            "univ": "132"
+            "id": "520",
+            "name": "Sces psychologique et edu",
+            "institution_id": "132"
         },
         {
-            "codeFac": "521",
-            "nomFac": "Sciences et technologies ",
-            "univ": "132"
+            "id": "521",
+            "name": "Sciences et technologies ",
+            "institution_id": "132"
         },
         {
-            "codeFac": "522",
-            "nomFac": "Sciences de la santé ",
-            "univ": "132"
+            "id": "522",
+            "name": "Sciences de la santé ",
+            "institution_id": "132"
         },
         {
-            "codeFac": "524",
-            "nomFac": "Sces Eco et gestion ",
-            "univ": "132"
+            "id": "524",
+            "name": "Sces Eco et gestion ",
+            "institution_id": "132"
         },
         {
-            "codeFac": "525",
-            "nomFac": "LETTRES ET SCES HUMAINS",
-            "univ": "128"
+            "id": "525",
+            "name": "LETTRES ET SCES HUMAINS",
+            "institution_id": "128"
         },
         {
-            "codeFac": "526",
-            "nomFac": "SCIENCES EXACTES ",
-            "univ": "128"
+            "id": "526",
+            "name": "SCIENCES EXACTES ",
+            "institution_id": "128"
         },
         {
-            "codeFac": "527",
-            "nomFac": "SCES COM, ADMI ET INFO",
-            "univ": "128"
+            "id": "527",
+            "name": "SCES COM, ADMI ET INFO",
+            "institution_id": "128"
         },
         {
-            "codeFac": "528",
-            "nomFac": "Sces Juridique, politique et Adm",
-            "univ": "133"
+            "id": "528",
+            "name": "Sces Juridique, politique et Adm",
+            "institution_id": "133"
         },
         {
-            "codeFac": "529",
-            "nomFac": "Sces Économique et Gest",
-            "univ": "133"
+            "id": "529",
+            "name": "Sces Économique et Gest",
+            "institution_id": "133"
         },
         {
-            "codeFac": "530",
-            "nomFac": "Sces de la santé ",
-            "univ": "133"
+            "id": "530",
+            "name": "Sces de la santé ",
+            "institution_id": "133"
         },
         {
-            "codeFac": "531",
-            "nomFac": "Sces de l'homme et de la société",
-            "univ": "133"
+            "id": "531",
+            "name": "Sces de l'homme et de la société",
+            "institution_id": "133"
         },
         {
-            "codeFac": "532",
-            "nomFac": "Sces Agro et Env",
-            "univ": "133"
+            "id": "532",
+            "name": "Sces Agro et Env",
+            "institution_id": "133"
         },
         {
-            "codeFac": "533",
-            "nomFac": "Gestion Fin et Adm",
-            "univ": "123"
+            "id": "533",
+            "name": "Gestion Fin et Adm",
+            "institution_id": "123"
         },
         {
-            "codeFac": "534",
-            "nomFac": "Gestion RH",
-            "univ": "123"
+            "id": "534",
+            "name": "Gestion RH",
+            "institution_id": "123"
         },
         {
-            "codeFac": "535",
-            "nomFac": "Sces-tech de Dev",
-            "univ": "123"
+            "id": "535",
+            "name": "Sces-tech de Dev",
+            "institution_id": "123"
         },
         {
-            "codeFac": "536",
-            "nomFac": "Sces Eco-Gest",
-            "univ": "123"
+            "id": "536",
+            "name": "Sces Eco-Gest",
+            "institution_id": "123"
         },
         {
-            "codeFac": "537",
-            "nomFac": "Sces Agro et Env",
-            "univ": "123"
+            "id": "537",
+            "name": "Sces Agro et Env",
+            "institution_id": "123"
         },
         {
-            "codeFac": "540",
-            "nomFac": "Sces Hom-Soc",
-            "univ": "123"
+            "id": "540",
+            "name": "Sces Hom-Soc",
+            "institution_id": "123"
         },
         {
-            "codeFac": "541",
-            "nomFac": "Sces de la santé",
-            "univ": "123"
+            "id": "541",
+            "name": "Sces de la santé",
+            "institution_id": "123"
         },
         {
-            "codeFac": "542",
-            "nomFac": "FSSAP",
-            "univ": "136"
+            "id": "542",
+            "name": "FSSAP",
+            "institution_id": "136"
         },
         {
-            "codeFac": "543",
-            "nomFac": "Droit",
-            "univ": "136"
+            "id": "543",
+            "name": "Droit",
+            "institution_id": "136"
         },
         {
-            "codeFac": "544",
-            "nomFac": "Psycho et SE",
-            "univ": "136"
+            "id": "544",
+            "name": "Psycho et SE",
+            "institution_id": "136"
         },
         {
-            "codeFac": "545",
-            "nomFac": "Médecine et Santé Publique",
-            "univ": "136"
+            "id": "545",
+            "name": "Médecine et Santé Publique",
+            "institution_id": "136"
         },
         {
-            "codeFac": "546",
-            "nomFac": "Économie et Gestion ",
-            "univ": "136"
+            "id": "546",
+            "name": "Économie et Gestion ",
+            "institution_id": "136"
         },
         {
-            "codeFac": "547",
-            "nomFac": "Sces Com-Fin",
-            "univ": "130"
+            "id": "547",
+            "name": "Sces Com-Fin",
+            "institution_id": "130"
         },
         {
-            "codeFac": "548",
-            "nomFac": "INFO",
-            "univ": "130"
+            "id": "548",
+            "name": "INFO",
+            "institution_id": "130"
         },
         {
-            "codeFac": "549",
-            "nomFac": "FLA",
-            "univ": "138"
+            "id": "549",
+            "name": "FLA",
+            "institution_id": "138"
         },
         {
-            "codeFac": "550",
-            "nomFac": "AGROVET",
-            "univ": "138"
+            "id": "550",
+            "name": "AGROVET",
+            "institution_id": "138"
         },
         {
-            "codeFac": "551",
-            "nomFac": "H.S.S.G.P",
-            "univ": "138"
+            "id": "551",
+            "name": "H.S.S.G.P",
+            "institution_id": "138"
         },
         {
-            "codeFac": "552",
-            "nomFac": "S.C.A",
-            "univ": "138"
+            "id": "552",
+            "name": "S.C.A",
+            "institution_id": "138"
         },
         {
-            "codeFac": "553",
-            "nomFac": "GAISF",
-            "univ": "138"
+            "id": "553",
+            "name": "GAISF",
+            "institution_id": "138"
         },
         {
-            "codeFac": "554",
-            "nomFac": "Sciences Infirmières",
-            "univ": "139"
+            "id": "554",
+            "name": "Sciences Infirmières",
+            "institution_id": "139"
         },
         {
-            "codeFac": "555",
-            "nomFac": "Sage-Femme",
-            "univ": "139"
+            "id": "555",
+            "name": "Sage-Femme",
+            "institution_id": "139"
         },
         {
-            "codeFac": "556",
-            "nomFac": "Sciences infirmières",
-            "univ": "135"
+            "id": "556",
+            "name": "Sciences infirmières",
+            "institution_id": "135"
         },
         {
-            "codeFac": "557",
-            "nomFac": "Santé Publique",
-            "univ": "135"
+            "id": "557",
+            "name": "Santé Publique",
+            "institution_id": "135"
         },
         {
-            "codeFac": "558",
-            "nomFac": "G.I.S",
-            "univ": "135"
+            "id": "558",
+            "name": "G.I.S",
+            "institution_id": "135"
         },
         {
-            "codeFac": "569",
-            "nomFac": "AGRONOMIE ",
-            "univ": "141"
+            "id": "569",
+            "name": "AGRONOMIE ",
+            "institution_id": "141"
         },
         {
-            "codeFac": "570",
-            "nomFac": "DROIT ET CRIMINOLOGIE ",
-            "univ": "141"
+            "id": "570",
+            "name": "DROIT ET CRIMINOLOGIE ",
+            "institution_id": "141"
         },
         {
-            "codeFac": "571",
-            "nomFac": "ÉCONOMIE ET GESTION ",
-            "univ": "141"
+            "id": "571",
+            "name": "ÉCONOMIE ET GESTION ",
+            "institution_id": "141"
         },
         {
-            "codeFac": "572",
-            "nomFac": "MÉDECINE",
-            "univ": "141"
+            "id": "572",
+            "name": "MÉDECINE",
+            "institution_id": "141"
         },
         {
-            "codeFac": "573",
-            "nomFac": "POLYTECHNIQUE ",
-            "univ": "141"
+            "id": "573",
+            "name": "POLYTECHNIQUE ",
+            "institution_id": "141"
         },
         {
-            "codeFac": "574",
-            "nomFac": "ARCHITECTURE ",
-            "univ": "141"
+            "id": "574",
+            "name": "ARCHITECTURE ",
+            "institution_id": "141"
         },
         {
-            "codeFac": "575",
-            "nomFac": "SCIENCES ",
-            "univ": "141"
+            "id": "575",
+            "name": "SCIENCES ",
+            "institution_id": "141"
         },
         {
-            "codeFac": "576",
-            "nomFac": "SCIENCES SOCIALES ",
-            "univ": "141"
+            "id": "576",
+            "name": "SCIENCES SOCIALES ",
+            "institution_id": "141"
         },
         {
-            "codeFac": "578",
-            "nomFac": "AGRO ET BIODIVERSITÉ ",
-            "univ": "137"
+            "id": "578",
+            "name": "AGRO ET BIODIVERSITÉ ",
+            "institution_id": "137"
         },
         {
-            "codeFac": "579",
-            "nomFac": "PSYCHOLOGIE ET SCES DE L'EDU",
-            "univ": "137"
+            "id": "579",
+            "name": "PSYCHOLOGIE ET SCES DE L'EDU",
+            "institution_id": "137"
         },
         {
-            "codeFac": "580",
-            "nomFac": "SCES SOCIALES, ADMI ET POLITIQUES ",
-            "univ": "137"
+            "id": "580",
+            "name": "SCES SOCIALES, ADMI ET POLITIQUES ",
+            "institution_id": "137"
         },
         {
-            "codeFac": "581",
-            "nomFac": "SCIENCES ECO ET GEST",
-            "univ": "137"
+            "id": "581",
+            "name": "SCIENCES ECO ET GEST",
+            "institution_id": "137"
         },
         {
-            "codeFac": "582",
-            "nomFac": "DROIT",
-            "univ": "137"
+            "id": "582",
+            "name": "DROIT",
+            "institution_id": "137"
         },
         {
-            "codeFac": "583",
-            "nomFac": "INFO ET GESTION ",
-            "univ": "99"
+            "id": "583",
+            "name": "INFO ET GESTION ",
+            "institution_id": "99"
         },
         {
-            "codeFac": "584",
-            "nomFac": "ENTREP ET GESTION PME",
-            "univ": "99"
+            "id": "584",
+            "name": "ENTREP ET GESTION PME",
+            "institution_id": "99"
         },
         {
-            "codeFac": "585",
-            "nomFac": "DOUANE ET COMMERCE EXT",
-            "univ": "99"
+            "id": "585",
+            "name": "DOUANE ET COMMERCE EXT",
+            "institution_id": "99"
         },
         {
-            "codeFac": "586",
-            "nomFac": "Gestion RH",
-            "univ": "99"
+            "id": "586",
+            "name": "Gestion RH",
+            "institution_id": "99"
         },
         {
-            "codeFac": "587",
-            "nomFac": "MARKETING ET DYNAMIQUE COM",
-            "univ": "99"
+            "id": "587",
+            "name": "MARKETING ET DYNAMIQUE COM",
+            "institution_id": "99"
         },
         {
-            "codeFac": "588",
-            "nomFac": "COMPTABILITÉ ET FINANCE",
-            "univ": "99"
+            "id": "588",
+            "name": "COMPTABILITÉ ET FINANCE",
+            "institution_id": "99"
         },
         {
-            "codeFac": "589",
-            "nomFac": "FISCALITÉ ",
-            "univ": "99"
+            "id": "589",
+            "name": "FISCALITÉ ",
+            "institution_id": "99"
         },
         {
-            "codeFac": "590",
-            "nomFac": "Sces Commerciale et Finance",
-            "univ": "140"
+            "id": "590",
+            "name": "Sces Commerciale et Finance",
+            "institution_id": "140"
         },
         {
-            "codeFac": "591",
-            "nomFac": "INFORMATIQUE ",
-            "univ": "141"
+            "id": "591",
+            "name": "INFORMATIQUE ",
+            "institution_id": "141"
         },
         {
-            "codeFac": "592",
-            "nomFac": "Communication ",
-            "univ": "141"
+            "id": "592",
+            "name": "Communication ",
+            "institution_id": "141"
         },
         {
-            "codeFac": "594",
-            "nomFac": "PV",
-            "univ": "141"
+            "id": "594",
+            "name": "PV",
+            "institution_id": "141"
         },
         {
-            "codeFac": "595",
-            "nomFac": "ENVIRONNEMENT ",
-            "univ": "141"
+            "id": "595",
+            "name": "ENVIRONNEMENT ",
+            "institution_id": "141"
         },
         {
-            "codeFac": "596",
-            "nomFac": "ST",
-            "univ": "141"
+            "id": "596",
+            "name": "ST",
+            "institution_id": "141"
         },
         {
-            "codeFac": "597",
-            "nomFac": "RTEL",
-            "univ": "141"
+            "id": "597",
+            "name": "RTEL",
+            "institution_id": "141"
         },
         {
-            "codeFac": "600",
-            "nomFac": "Scies Infirmière et Soins Gen",
-            "univ": "145"
+            "id": "600",
+            "name": "Scies Infirmière et Soins Gen",
+            "institution_id": "145"
         },
         {
-            "codeFac": "601",
-            "nomFac": "Sage femme",
-            "univ": "145"
+            "id": "601",
+            "name": "Sage femme",
+            "institution_id": "145"
         },
         {
-            "codeFac": "602",
-            "nomFac": "Pédiatrie ",
-            "univ": "145"
+            "id": "602",
+            "name": "Pédiatrie ",
+            "institution_id": "145"
         },
         {
-            "codeFac": "603",
-            "nomFac": "Tech Lab/ Biologie médicale ",
-            "univ": "145"
+            "id": "603",
+            "name": "Tech Lab/ Biologie médicale ",
+            "institution_id": "145"
         },
         {
-            "codeFac": "604",
-            "nomFac": "SCES des aliments/ Nutrition et Diététique ",
-            "univ": "145"
+            "id": "604",
+            "name": "SCES des aliments/ Nutrition et Diététique ",
+            "institution_id": "145"
         },
         {
-            "codeFac": "605",
-            "nomFac": "Anesthésiste et Rea",
-            "univ": "145"
+            "id": "605",
+            "name": "Anesthésiste et Rea",
+            "institution_id": "145"
         },
         {
-            "codeFac": "606",
-            "nomFac": "Tech Pharmaceutique ",
-            "univ": "145"
+            "id": "606",
+            "name": "Tech Pharmaceutique ",
+            "institution_id": "145"
         },
         {
-            "codeFac": "607",
-            "nomFac": "Santé publique/santé com",
-            "univ": "145"
+            "id": "607",
+            "name": "Santé publique/santé com",
+            "institution_id": "145"
         },
         {
-            "codeFac": "608",
-            "nomFac": "Gynéco-obstétrique ",
-            "univ": "145"
+            "id": "608",
+            "name": "Gynéco-obstétrique ",
+            "institution_id": "145"
         },
         {
-            "codeFac": "609",
-            "nomFac": "Théologie Ev ",
-            "univ": "146"
+            "id": "609",
+            "name": "Théologie Ev ",
+            "institution_id": "146"
         },
         {
-            "codeFac": "610",
-            "nomFac": "Psychologie et SCES de l'éducation ",
-            "univ": "146"
+            "id": "610",
+            "name": "Psychologie et SCES de l'éducation ",
+            "institution_id": "146"
         },
         {
-            "codeFac": "611",
-            "nomFac": "Économie et gestion ",
-            "univ": "146"
+            "id": "611",
+            "name": "Économie et gestion ",
+            "institution_id": "146"
         },
         {
-            "codeFac": "612",
-            "nomFac": "Polytech ",
-            "univ": "146"
+            "id": "612",
+            "name": "Polytech ",
+            "institution_id": "146"
         },
         {
-            "codeFac": "613",
-            "nomFac": "SCES INFORMATIONS et COM",
-            "univ": "146"
+            "id": "613",
+            "name": "SCES INFORMATIONS et COM",
+            "institution_id": "146"
         },
         {
-            "codeFac": "614",
-            "nomFac": "Agronomie ",
-            "univ": "146"
+            "id": "614",
+            "name": "Agronomie ",
+            "institution_id": "146"
         },
         {
-            "codeFac": "615",
-            "nomFac": "Vétérinaire ",
-            "univ": "146"
+            "id": "615",
+            "name": "Vétérinaire ",
+            "institution_id": "146"
         },
         {
-            "codeFac": "616",
-            "nomFac": "Environnement ",
-            "univ": "146"
+            "id": "616",
+            "name": "Environnement ",
+            "institution_id": "146"
         },
         {
-            "codeFac": "617",
-            "nomFac": "Environnement et développement communautaire ",
-            "univ": "146"
+            "id": "617",
+            "name": "Environnement et développement communautaire ",
+            "institution_id": "146"
         }
     ]
 }
