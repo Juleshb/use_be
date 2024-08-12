@@ -2,10 +2,10 @@
 -- version 5.2.1
 -- https://www.phpmyadmin.net/
 --
--- Hôte : 127.0.0.1
--- Généré le : lun. 12 août 2024 à 12:42
--- Version du serveur : 10.4.32-MariaDB
--- Version de PHP : 8.2.12
+-- Host: 127.0.0.1
+-- Generation Time: Aug 12, 2024 at 01:59 PM
+-- Server version: 10.4.32-MariaDB
+-- PHP Version: 8.2.12
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;
@@ -18,13 +18,13 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Base de données : `school_management`
+-- Database: `use`
 --
 
 -- --------------------------------------------------------
 
 --
--- Structure de la table `departments`
+-- Table structure for table `departments`
 --
 
 CREATE TABLE `departments` (
@@ -38,7 +38,7 @@ CREATE TABLE `departments` (
 -- --------------------------------------------------------
 
 --
--- Structure de la table `faculties`
+-- Table structure for table `faculties`
 --
 
 CREATE TABLE `faculties` (
@@ -50,7 +50,7 @@ CREATE TABLE `faculties` (
 -- --------------------------------------------------------
 
 --
--- Structure de la table `functions`
+-- Table structure for table `functions`
 --
 
 CREATE TABLE `functions` (
@@ -61,7 +61,7 @@ CREATE TABLE `functions` (
 -- --------------------------------------------------------
 
 --
--- Structure de la table `grades`
+-- Table structure for table `grades`
 --
 
 CREATE TABLE `grades` (
@@ -72,7 +72,7 @@ CREATE TABLE `grades` (
 -- --------------------------------------------------------
 
 --
--- Structure de la table `institutions`
+-- Table structure for table `institutions`
 --
 
 CREATE TABLE `institutions` (
@@ -86,7 +86,7 @@ CREATE TABLE `institutions` (
 -- --------------------------------------------------------
 
 --
--- Structure de la table `provinces`
+-- Table structure for table `provinces`
 --
 
 CREATE TABLE `provinces` (
@@ -94,10 +94,25 @@ CREATE TABLE `provinces` (
   `name` varchar(255) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
+--
+-- Dumping data for table `provinces`
+--
+
+INSERT INTO `provinces` (`id`, `name`) VALUES
+(1, 'Kinshasa'),
+(2, 'Tshopo'),
+(3, 'Kasaï'),
+(4, 'ITURI'),
+(5, 'Kasaï Central'),
+(6, 'Nord-Kivu'),
+(7, 'Lomami'),
+(8, 'Mongala'),
+(9, 'Sud Kivu');
+
 -- --------------------------------------------------------
 
 --
--- Structure de la table `students`
+-- Table structure for table `students`
 --
 
 CREATE TABLE `students` (
@@ -123,7 +138,7 @@ CREATE TABLE `students` (
 -- --------------------------------------------------------
 
 --
--- Structure de la table `users`
+-- Table structure for table `users`
 --
 
 CREATE TABLE `users` (
@@ -140,11 +155,11 @@ CREATE TABLE `users` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
 --
--- Index pour les tables déchargées
+-- Indexes for dumped tables
 --
 
 --
--- Index pour la table `departments`
+-- Indexes for table `departments`
 --
 ALTER TABLE `departments`
   ADD PRIMARY KEY (`id`),
@@ -152,46 +167,46 @@ ALTER TABLE `departments`
   ADD KEY `fk_customer` (`institution_id`);
 
 --
--- Index pour la table `faculties`
+-- Indexes for table `faculties`
 --
 ALTER TABLE `faculties`
   ADD PRIMARY KEY (`id`),
   ADD KEY `institution_id` (`institution_id`);
 
 --
--- Index pour la table `functions`
+-- Indexes for table `functions`
 --
 ALTER TABLE `functions`
   ADD PRIMARY KEY (`id`);
 
 --
--- Index pour la table `grades`
+-- Indexes for table `grades`
 --
 ALTER TABLE `grades`
   ADD PRIMARY KEY (`id`);
 
 --
--- Index pour la table `institutions`
+-- Indexes for table `institutions`
 --
 ALTER TABLE `institutions`
   ADD PRIMARY KEY (`id`),
   ADD KEY `province_id` (`province_id`);
 
 --
--- Index pour la table `provinces`
+-- Indexes for table `provinces`
 --
 ALTER TABLE `provinces`
   ADD PRIMARY KEY (`id`);
 
 --
--- Index pour la table `students`
+-- Indexes for table `students`
 --
 ALTER TABLE `students`
   ADD PRIMARY KEY (`id`),
   ADD UNIQUE KEY `matricule` (`matricule`);
 
 --
--- Index pour la table `users`
+-- Indexes for table `users`
 --
 ALTER TABLE `users`
   ADD PRIMARY KEY (`id`),
@@ -202,82 +217,82 @@ ALTER TABLE `users`
   ADD KEY `department_id` (`department_id`);
 
 --
--- AUTO_INCREMENT pour les tables déchargées
+-- AUTO_INCREMENT for dumped tables
 --
 
 --
--- AUTO_INCREMENT pour la table `departments`
+-- AUTO_INCREMENT for table `departments`
 --
 ALTER TABLE `departments`
   MODIFY `id` int(11) NOT NULL AUTO_INCREMENT;
 
 --
--- AUTO_INCREMENT pour la table `faculties`
+-- AUTO_INCREMENT for table `faculties`
 --
 ALTER TABLE `faculties`
   MODIFY `id` int(11) NOT NULL AUTO_INCREMENT;
 
 --
--- AUTO_INCREMENT pour la table `functions`
+-- AUTO_INCREMENT for table `functions`
 --
 ALTER TABLE `functions`
   MODIFY `id` int(11) NOT NULL AUTO_INCREMENT;
 
 --
--- AUTO_INCREMENT pour la table `grades`
+-- AUTO_INCREMENT for table `grades`
 --
 ALTER TABLE `grades`
   MODIFY `id` int(11) NOT NULL AUTO_INCREMENT;
 
 --
--- AUTO_INCREMENT pour la table `institutions`
+-- AUTO_INCREMENT for table `institutions`
 --
 ALTER TABLE `institutions`
   MODIFY `id` int(11) NOT NULL AUTO_INCREMENT;
 
 --
--- AUTO_INCREMENT pour la table `provinces`
+-- AUTO_INCREMENT for table `provinces`
 --
 ALTER TABLE `provinces`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=10;
 
 --
--- AUTO_INCREMENT pour la table `students`
+-- AUTO_INCREMENT for table `students`
 --
 ALTER TABLE `students`
   MODIFY `id` int(11) NOT NULL AUTO_INCREMENT;
 
 --
--- AUTO_INCREMENT pour la table `users`
+-- AUTO_INCREMENT for table `users`
 --
 ALTER TABLE `users`
   MODIFY `id` int(11) NOT NULL AUTO_INCREMENT;
 
 --
--- Contraintes pour les tables déchargées
+-- Constraints for dumped tables
 --
 
 --
--- Contraintes pour la table `departments`
+-- Constraints for table `departments`
 --
 ALTER TABLE `departments`
   ADD CONSTRAINT `departments_ibfk_1` FOREIGN KEY (`faculty_id`) REFERENCES `faculties` (`id`),
   ADD CONSTRAINT `fk_customer` FOREIGN KEY (`institution_id`) REFERENCES `institutions` (`id`);
 
 --
--- Contraintes pour la table `faculties`
+-- Constraints for table `faculties`
 --
 ALTER TABLE `faculties`
   ADD CONSTRAINT `faculties_ibfk_1` FOREIGN KEY (`institution_id`) REFERENCES `institutions` (`id`);
 
 --
--- Contraintes pour la table `institutions`
+-- Constraints for table `institutions`
 --
 ALTER TABLE `institutions`
   ADD CONSTRAINT `institutions_ibfk_1` FOREIGN KEY (`province_id`) REFERENCES `provinces` (`id`);
 
 --
--- Contraintes pour la table `users`
+-- Constraints for table `users`
 --
 ALTER TABLE `users`
   ADD CONSTRAINT `users_ibfk_1` FOREIGN KEY (`province_id`) REFERENCES `provinces` (`id`),
