@@ -1,0 +1,38 @@
+[
+    {
+        "idProvince": "4",
+        "nomProvince": "ITURI"
+    },
+    {
+        "idProvince": "3",
+        "nomProvince": "Kasaï"
+    },
+    {
+        "idProvince": "5",
+        "nomProvince": "Kasaï Central "
+    },
+    {
+        "idProvince": "1",
+        "nomProvince": "Kinshasa"
+    },
+    {
+        "idProvince": "7",
+        "nomProvince": "Lomami"
+    },
+    {
+        "idProvince": "8",
+        "nomProvince": "Mongala"
+    },
+    {
+        "idProvince": "6",
+        "nomProvince": "Nord-Kivu"
+    },
+    {
+        "idProvince": "9",
+        "nomProvince": "Sud Kivu "
+    },
+    {
+        "idProvince": "2",
+        "nomProvince": "Tshopo"
+    }
+]

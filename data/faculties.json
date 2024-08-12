@@ -1,0 +1,2699 @@
+{
+    "facs": [
+        {
+            "codeFac": "6",
+            "nomFac": "Philosophie ",
+            "univ": "7"
+        },
+        {
+            "codeFac": "7",
+            "nomFac": "Lettres, Langues, Arts et Sciences de l`homme et de la Société",
+            "univ": "6"
+        },
+        {
+            "codeFac": "8",
+            "nomFac": "Sciences Naturelles et Exactes",
+            "univ": "6"
+        },
+        {
+            "codeFac": "9",
+            "nomFac": "Sciences Économiques et de Gestion",
+            "univ": "6"
+        },
+        {
+            "codeFac": "10",
+            "nomFac": "Sciences psychologiques et éducation",
+            "univ": "6"
+        },
+        {
+            "codeFac": "11",
+            "nomFac": "Sciences et Techniques",
+            "univ": "6"
+        },
+        {
+            "codeFac": "12",
+            "nomFac": "Sciences Commerciales et Financières ",
+            "univ": "8"
+        },
+        {
+            "codeFac": "13",
+            "nomFac": "Sciences informatiques",
+            "univ": "8"
+        },
+        {
+            "codeFac": "14",
+            "nomFac": "Sciences de Techniques de Secrétariat de Direction et Sciences d’administration",
+            "univ": "8"
+        },
+        {
+            "codeFac": "15",
+            "nomFac": "Soins Généraux",
+            "univ": "9"
+        },
+        {
+            "codeFac": "16",
+            "nomFac": "Gestion des organisation",
+            "univ": "9"
+        },
+        {
+            "codeFac": "17",
+            "nomFac": "Laboratoire",
+            "univ": "9"
+        },
+        {
+            "codeFac": "18",
+            "nomFac": "Sciences des aliments, nutrition et diététique",
+            "univ": "9"
+        },
+        {
+            "codeFac": "19",
+            "nomFac": "Sage-femme",
+            "univ": "9"
+        },
+        {
+            "codeFac": "20",
+            "nomFac": "technique pharmaceutique",
+            "univ": "9"
+        },
+        {
+            "codeFac": "21",
+            "nomFac": "Santé Communautaire",
+            "univ": "9"
+        },
+        {
+            "codeFac": "22",
+            "nomFac": "Hygiène et environnement",
+            "univ": "9"
+        },
+        {
+            "codeFac": "23",
+            "nomFac": "Sciences Commerciales et Financières ",
+            "univ": "5"
+        },
+        {
+            "codeFac": "24",
+            "nomFac": "Sciences informatiques",
+            "univ": "5"
+        },
+        {
+            "codeFac": "25",
+            "nomFac": "Sciences de Techniques de Secrétariat de Direction et Sciences d’administration",
+            "univ": "5"
+        },
+        {
+            "codeFac": "26",
+            "nomFac": "Sciences Exactes",
+            "univ": "3"
+        },
+        {
+            "codeFac": "27",
+            "nomFac": "Lettres et Sciences Humaines",
+            "univ": "3"
+        },
+        {
+            "codeFac": "28",
+            "nomFac": "Psychologie et Sciences de l`Education",
+            "univ": "10"
+        },
+        {
+            "codeFac": "29",
+            "nomFac": "Droit",
+            "univ": "10"
+        },
+        {
+            "codeFac": "30",
+            "nomFac": "Sciences Appliquées",
+            "univ": "10"
+        },
+        {
+            "codeFac": "31",
+            "nomFac": "Sciences Agronomiques et Vétérinaires",
+            "univ": "10"
+        },
+        {
+            "codeFac": "32",
+            "nomFac": "Sciences Économiques et de Gestion",
+            "univ": "10"
+        },
+        {
+            "codeFac": "33",
+            "nomFac": "Faculté des Sciences",
+            "univ": "2"
+        },
+        {
+            "codeFac": "34",
+            "nomFac": "Psychologie et Sc. de l`Education",
+            "univ": "2"
+        },
+        {
+            "codeFac": "35",
+            "nomFac": "Médecine et Pharmacie",
+            "univ": "2"
+        },
+        {
+            "codeFac": "36",
+            "nomFac": "Sc. Sociales Politiques et Administratives",
+            "univ": "2"
+        },
+        {
+            "codeFac": "37",
+            "nomFac": "Lettres et Sc Humaines",
+            "univ": "2"
+        },
+        {
+            "codeFac": "38",
+            "nomFac": "Droit",
+            "univ": "2"
+        },
+        {
+            "codeFac": "39",
+            "nomFac": "Sc. Economiques et de Gestion",
+            "univ": "2"
+        },
+        {
+            "codeFac": "40",
+            "nomFac": "Gest. des Ress. Nat. Renouv.",
+            "univ": "2"
+        },
+        {
+            "codeFac": "41",
+            "nomFac": "Ecole Supérieure d`Hôtéllerie",
+            "univ": "2"
+        },
+        {
+            "codeFac": "42",
+            "nomFac": "Ecole de pèche et d`aquaculture",
+            "univ": "2"
+        },
+        {
+            "codeFac": "43",
+            "nomFac": "Sces Agro ",
+            "univ": "11"
+        },
+        {
+            "codeFac": "44",
+            "nomFac": "Agro Éco. ",
+            "univ": "11"
+        },
+        {
+            "codeFac": "45",
+            "nomFac": "GRNR",
+            "univ": "11"
+        },
+        {
+            "codeFac": "46",
+            "nomFac": "Médecin Vétérinaire ",
+            "univ": "11"
+        },
+        {
+            "codeFac": "47",
+            "nomFac": "Agro. Gén",
+            "univ": "11"
+        },
+        {
+            "codeFac": "48",
+            "nomFac": "Eaux et forêts ",
+            "univ": "11"
+        },
+        {
+            "codeFac": "49",
+            "nomFac": "Sol et Eaux ",
+            "univ": "11"
+        },
+        {
+            "codeFac": "50",
+            "nomFac": "Sces Infirmière ",
+            "univ": "12"
+        },
+        {
+            "codeFac": "51",
+            "nomFac": "BIOMED",
+            "univ": "12"
+        },
+        {
+            "codeFac": "52",
+            "nomFac": "Gest Org. Santé ",
+            "univ": "12"
+        },
+        {
+            "codeFac": "53",
+            "nomFac": "Sage Femme ",
+            "univ": "12"
+        },
+        {
+            "codeFac": "54",
+            "nomFac": "Sces Motri &amp; Pharm",
+            "univ": "12"
+        },
+        {
+            "codeFac": "55",
+            "nomFac": "Technique Agricole",
+            "univ": "14"
+        },
+        {
+            "codeFac": "56",
+            "nomFac": "Développement Rural",
+            "univ": "14"
+        },
+        {
+            "codeFac": "57",
+            "nomFac": "Bâtiment et Travaux Publics ",
+            "univ": "13"
+        },
+        {
+            "codeFac": "58",
+            "nomFac": "Géométrie-Topographie",
+            "univ": "13"
+        },
+        {
+            "codeFac": "59",
+            "nomFac": "Architecture ",
+            "univ": "13"
+        },
+        {
+            "codeFac": "60",
+            "nomFac": "Urbanisme ",
+            "univ": "13"
+        },
+        {
+            "codeFac": "61",
+            "nomFac": "Droit",
+            "univ": "17"
+        },
+        {
+            "codeFac": "62",
+            "nomFac": "Management et Sc. Économiques ",
+            "univ": "17"
+        },
+        {
+            "codeFac": "68",
+            "nomFac": "Sces et Technologie Appliquée ",
+            "univ": "18"
+        },
+        {
+            "codeFac": "69",
+            "nomFac": "Sces Économiques et Gestion ",
+            "univ": "18"
+        },
+        {
+            "codeFac": "70",
+            "nomFac": "Sces Juridique ",
+            "univ": "18"
+        },
+        {
+            "codeFac": "71",
+            "nomFac": "Sciences Infirmières",
+            "univ": "16"
+        },
+        {
+            "codeFac": "72",
+            "nomFac": "Sciences Exactes",
+            "univ": "19"
+        },
+        {
+            "codeFac": "73",
+            "nomFac": "Lettres et Sciences Humaines",
+            "univ": "19"
+        },
+        {
+            "codeFac": "74",
+            "nomFac": "Lettres et Sciences Humaines",
+            "univ": "20"
+        },
+        {
+            "codeFac": "75",
+            "nomFac": "Sciences exactes ",
+            "univ": "20"
+        },
+        {
+            "codeFac": "76",
+            "nomFac": "Développement rural ",
+            "univ": "21"
+        },
+        {
+            "codeFac": "77",
+            "nomFac": "Techniques agricoles",
+            "univ": "21"
+        },
+        {
+            "codeFac": "78",
+            "nomFac": "Agrovétérinaire",
+            "univ": "21"
+        },
+        {
+            "codeFac": "79",
+            "nomFac": "Gestion des Ressources Naturelles Renouvelables",
+            "univ": "21"
+        },
+        {
+            "codeFac": "80",
+            "nomFac": "Philosophie ",
+            "univ": "22"
+        },
+        {
+            "codeFac": "81",
+            "nomFac": "Lettres et Sciences Humaines",
+            "univ": "23"
+        },
+        {
+            "codeFac": "82",
+            "nomFac": "Sciences exactes ",
+            "univ": "23"
+        },
+        {
+            "codeFac": "83",
+            "nomFac": "Sciences exactes ",
+            "univ": "24"
+        },
+        {
+            "codeFac": "86",
+            "nomFac": "Lettres et Sciences Humaines",
+            "univ": "24"
+        },
+        {
+            "codeFac": "87",
+            "nomFac": "Lettres et Sciences Humaines",
+            "univ": "27"
+        },
+        {
+            "codeFac": "88",
+            "nomFac": "Sciences exactes ",
+            "univ": "27"
+        },
+        {
+            "codeFac": "89",
+            "nomFac": "f",
+            "univ": "28"
+        },
+        {
+            "codeFac": "90",
+            "nomFac": "Informatique et Technologie",
+            "univ": "13"
+        },
+        {
+            "codeFac": "91",
+            "nomFac": "Sciences infirmières",
+            "univ": "29"
+        },
+        {
+            "codeFac": "92",
+            "nomFac": "Section Sage-femme",
+            "univ": "29"
+        },
+        {
+            "codeFac": "93",
+            "nomFac": "Section Santé communautaire",
+            "univ": "29"
+        },
+        {
+            "codeFac": "94",
+            "nomFac": "Sces Infirmières",
+            "univ": "31"
+        },
+        {
+            "codeFac": "95",
+            "nomFac": "Sage-Femme",
+            "univ": "31"
+        },
+        {
+            "codeFac": "96",
+            "nomFac": "Biomed ",
+            "univ": "31"
+        },
+        {
+            "codeFac": "97",
+            "nomFac": "Gest Org de Santé ",
+            "univ": "31"
+        },
+        {
+            "codeFac": "98",
+            "nomFac": "Santé ",
+            "univ": "42"
+        },
+        {
+            "codeFac": "99",
+            "nomFac": "Juridique, Politique et adm",
+            "univ": "42"
+        },
+        {
+            "codeFac": "100",
+            "nomFac": "Agro et Enviro",
+            "univ": "42"
+        },
+        {
+            "codeFac": "101",
+            "nomFac": "Psy et Sces Edu",
+            "univ": "42"
+        },
+        {
+            "codeFac": "104",
+            "nomFac": "Sces Eco et Gestion ",
+            "univ": "42"
+        },
+        {
+            "codeFac": "105",
+            "nomFac": "Sces et Tech",
+            "univ": "42"
+        },
+        {
+            "codeFac": "106",
+            "nomFac": "Sces l’Homme et Société ",
+            "univ": "42"
+        },
+        {
+            "codeFac": "115",
+            "nomFac": "Sces exactes",
+            "univ": "46"
+        },
+        {
+            "codeFac": "116",
+            "nomFac": "Sces lettres et Sces humaines ",
+            "univ": "46"
+        },
+        {
+            "codeFac": "117",
+            "nomFac": "Psy et Sces de l’Educ",
+            "univ": "45"
+        },
+        {
+            "codeFac": "118",
+            "nomFac": "Sces de Travail ",
+            "univ": "45"
+        },
+        {
+            "codeFac": "119",
+            "nomFac": "Sces Agro et Envi",
+            "univ": "32"
+        },
+        {
+            "codeFac": "121",
+            "nomFac": "SL et SH",
+            "univ": "44"
+        },
+        {
+            "codeFac": "122",
+            "nomFac": "SSE",
+            "univ": "44"
+        },
+        {
+            "codeFac": "123",
+            "nomFac": "Sces et Tech",
+            "univ": "44"
+        },
+        {
+            "codeFac": "124",
+            "nomFac": "Sces Agro Vet ",
+            "univ": "44"
+        },
+        {
+            "codeFac": "125",
+            "nomFac": "LL ET A",
+            "univ": "44"
+        },
+        {
+            "codeFac": "126",
+            "nomFac": "SEG",
+            "univ": "44"
+        },
+        {
+            "codeFac": "127",
+            "nomFac": "SHS",
+            "univ": "44"
+        },
+        {
+            "codeFac": "128",
+            "nomFac": "SPE",
+            "univ": "44"
+        },
+        {
+            "codeFac": "130",
+            "nomFac": "Sces Com et Adm",
+            "univ": "33"
+        },
+        {
+            "codeFac": "131",
+            "nomFac": "Management ",
+            "univ": "33"
+        },
+        {
+            "codeFac": "132",
+            "nomFac": "Théologie ",
+            "univ": "37"
+        },
+        {
+            "codeFac": "133",
+            "nomFac": "Psy et Sces Educ",
+            "univ": "37"
+        },
+        {
+            "codeFac": "134",
+            "nomFac": "Min et Géologie ",
+            "univ": "37"
+        },
+        {
+            "codeFac": "135",
+            "nomFac": "Polytch",
+            "univ": "37"
+        },
+        {
+            "codeFac": "136",
+            "nomFac": "SaCom",
+            "univ": "37"
+        },
+        {
+            "codeFac": "137",
+            "nomFac": "Paix GC",
+            "univ": "37"
+        },
+        {
+            "codeFac": "138",
+            "nomFac": "Descofin",
+            "univ": "33"
+        },
+        {
+            "codeFac": "139",
+            "nomFac": "Dev. Rural ",
+            "univ": "32"
+        },
+        {
+            "codeFac": "140",
+            "nomFac": "Sces Informatique ",
+            "univ": "38"
+        },
+        {
+            "codeFac": "141",
+            "nomFac": "Sces Com et admin ",
+            "univ": "38"
+        },
+        {
+            "codeFac": "142",
+            "nomFac": "Gest tourist et hot",
+            "univ": "38"
+        },
+        {
+            "codeFac": "143",
+            "nomFac": "Art et Métiers ",
+            "univ": "38"
+        },
+        {
+            "codeFac": "144",
+            "nomFac": "Compt et Fin",
+            "univ": "48"
+        },
+        {
+            "codeFac": "145",
+            "nomFac": "Marketing",
+            "univ": "48"
+        },
+        {
+            "codeFac": "146",
+            "nomFac": "Fisc. Douane et Acc.",
+            "univ": "48"
+        },
+        {
+            "codeFac": "147",
+            "nomFac": "Info Gestion ",
+            "univ": "48"
+        },
+        {
+            "codeFac": "148",
+            "nomFac": "E.P et PME",
+            "univ": "48"
+        },
+        {
+            "codeFac": "149",
+            "nomFac": "GRH",
+            "univ": "48"
+        },
+        {
+            "codeFac": "150",
+            "nomFac": "Log et Trans",
+            "univ": "48"
+        },
+        {
+            "codeFac": "151",
+            "nomFac": "Mang. Et Sces Eco",
+            "univ": "43"
+        },
+        {
+            "codeFac": "152",
+            "nomFac": "Droit",
+            "univ": "43"
+        },
+        {
+            "codeFac": "153",
+            "nomFac": "SSPA",
+            "univ": "43"
+        },
+        {
+            "codeFac": "154",
+            "nomFac": "SIC",
+            "univ": "43"
+        },
+        {
+            "codeFac": "155",
+            "nomFac": "Prépa ",
+            "univ": "35"
+        },
+        {
+            "codeFac": "156",
+            "nomFac": "BTP",
+            "univ": "35"
+        },
+        {
+            "codeFac": "157",
+            "nomFac": "SAND",
+            "univ": "41"
+        },
+        {
+            "codeFac": "158",
+            "nomFac": "SF",
+            "univ": "41"
+        },
+        {
+            "codeFac": "159",
+            "nomFac": "GOS",
+            "univ": "41"
+        },
+        {
+            "codeFac": "161",
+            "nomFac": "TPHAR",
+            "univ": "41"
+        },
+        {
+            "codeFac": "162",
+            "nomFac": "TLAB",
+            "univ": "41"
+        },
+        {
+            "codeFac": "163",
+            "nomFac": "SACOM",
+            "univ": "41"
+        },
+        {
+            "codeFac": "164",
+            "nomFac": "SI",
+            "univ": "41"
+        },
+        {
+            "codeFac": "165",
+            "nomFac": "Lettre et Sces Humaines ",
+            "univ": "47"
+        },
+        {
+            "codeFac": "166",
+            "nomFac": "Sces Exactes ",
+            "univ": "47"
+        },
+        {
+            "codeFac": "168",
+            "nomFac": "Adm et Gestion",
+            "univ": "30"
+        },
+        {
+            "codeFac": "169",
+            "nomFac": "Sces de développement ",
+            "univ": "30"
+        },
+        {
+            "codeFac": "170",
+            "nomFac": "Théologie Évangélique ",
+            "univ": "30"
+        },
+        {
+            "codeFac": "171",
+            "nomFac": "Médecine",
+            "univ": "30"
+        },
+        {
+            "codeFac": "172",
+            "nomFac": "Sces Agro et Env.",
+            "univ": "30"
+        },
+        {
+            "codeFac": "173",
+            "nomFac": "Tech. Agricole ",
+            "univ": "36"
+        },
+        {
+            "codeFac": "174",
+            "nomFac": "Développement ",
+            "univ": "36"
+        },
+        {
+            "codeFac": "175",
+            "nomFac": "Méd. Vétérinaire ",
+            "univ": "36"
+        },
+        {
+            "codeFac": "177",
+            "nomFac": "Sciences juridique, Admin et Rel inter",
+            "univ": "53"
+        },
+        {
+            "codeFac": "178",
+            "nomFac": "Sciences et Technologie ",
+            "univ": "53"
+        },
+        {
+            "codeFac": "179",
+            "nomFac": "Sciences de l’Homme et de la société",
+            "univ": "53"
+        },
+        {
+            "codeFac": "180",
+            "nomFac": "Sciences agronomiques et Environ",
+            "univ": "53"
+        },
+        {
+            "codeFac": "181",
+            "nomFac": "Science de l’ingénieur",
+            "univ": "53"
+        },
+        {
+            "codeFac": "182",
+            "nomFac": "Science de l’ingénieur",
+            "univ": "53"
+        },
+        {
+            "codeFac": "183",
+            "nomFac": "Sciences Agronomiques et Environnement ",
+            "univ": "54"
+        },
+        {
+            "codeFac": "184",
+            "nomFac": "Sciences juridiques, Politiques et Administratives",
+            "univ": "54"
+        },
+        {
+            "codeFac": "185",
+            "nomFac": "Sciences et Technologies",
+            "univ": "54"
+        },
+        {
+            "codeFac": "186",
+            "nomFac": "Sciences Psychologiques et de l’Education",
+            "univ": "54"
+        },
+        {
+            "codeFac": "187",
+            "nomFac": "Sciences Economiques et de gestion ",
+            "univ": "54"
+        },
+        {
+            "codeFac": "188",
+            "nomFac": "Soins généraux",
+            "univ": "55"
+        },
+        {
+            "codeFac": "189",
+            "nomFac": "Sage-Femme",
+            "univ": "55"
+        },
+        {
+            "codeFac": "191",
+            "nomFac": "Nutrition Dietetique",
+            "univ": "55"
+        },
+        {
+            "codeFac": "192",
+            "nomFac": "Gestion Des institution de Santé",
+            "univ": "55"
+        },
+        {
+            "codeFac": "193",
+            "nomFac": "Pharmacie",
+            "univ": "55"
+        },
+        {
+            "codeFac": "194",
+            "nomFac": "Laboratoire",
+            "univ": "55"
+        },
+        {
+            "codeFac": "195",
+            "nomFac": "Pediatrie",
+            "univ": "55"
+        },
+        {
+            "codeFac": "196",
+            "nomFac": "Hospitalière",
+            "univ": "55"
+        },
+        {
+            "codeFac": "197",
+            "nomFac": "EASI",
+            "univ": "55"
+        },
+        {
+            "codeFac": "198",
+            "nomFac": "Biologie Médicale",
+            "univ": "55"
+        },
+        {
+            "codeFac": "199",
+            "nomFac": "Accoucheuse ",
+            "univ": "55"
+        },
+        {
+            "codeFac": "200",
+            "nomFac": "Comptabilité et Finance",
+            "univ": "57"
+        },
+        {
+            "codeFac": "201",
+            "nomFac": "Marketing",
+            "univ": "57"
+        },
+        {
+            "codeFac": "202",
+            "nomFac": "Fiscalité, Douanes et Accises",
+            "univ": "57"
+        },
+        {
+            "codeFac": "203",
+            "nomFac": "Entrepreneuriat et Gestion des PME",
+            "univ": "57"
+        },
+        {
+            "codeFac": "204",
+            "nomFac": "Gestion des Ressources Humaines",
+            "univ": "57"
+        },
+        {
+            "codeFac": "205",
+            "nomFac": "Informatique de Gestion",
+            "univ": "57"
+        },
+        {
+            "codeFac": "206",
+            "nomFac": "Sciences commerciales et Financières ",
+            "univ": "57"
+        },
+        {
+            "codeFac": "207",
+            "nomFac": "Gestion des Entreprises",
+            "univ": "57"
+        },
+        {
+            "codeFac": "208",
+            "nomFac": "Gestion et Administration des Projets",
+            "univ": "57"
+        },
+        {
+            "codeFac": "209",
+            "nomFac": "Sciences Infirmières",
+            "univ": "58"
+        },
+        {
+            "codeFac": "210",
+            "nomFac": "Sage-Femme",
+            "univ": "58"
+        },
+        {
+            "codeFac": "211",
+            "nomFac": "Sciences Des Aliments",
+            "univ": "58"
+        },
+        {
+            "codeFac": "212",
+            "nomFac": "Biologie Médicale",
+            "univ": "58"
+        },
+        {
+            "codeFac": "213",
+            "nomFac": "Santé communautaire",
+            "univ": "58"
+        },
+        {
+            "codeFac": "214",
+            "nomFac": "Gestion  des Organisations de Santé",
+            "univ": "58"
+        },
+        {
+            "codeFac": "215",
+            "nomFac": "Hospitalière",
+            "univ": "58"
+        },
+        {
+            "codeFac": "216",
+            "nomFac": "Enseignement et Admin. en Soins Infirmiers",
+            "univ": "58"
+        },
+        {
+            "codeFac": "218",
+            "nomFac": "Accoucheuse",
+            "univ": "58"
+        },
+        {
+            "codeFac": "219",
+            "nomFac": "Chirurgie",
+            "univ": "58"
+        },
+        {
+            "codeFac": "221",
+            "nomFac": "Sciences Informatiques ",
+            "univ": "59"
+        },
+        {
+            "codeFac": "222",
+            "nomFac": "Sciences Agronomiques et Environnement",
+            "univ": "59"
+        },
+        {
+            "codeFac": "223",
+            "nomFac": "Planification Régionale et Nationale",
+            "univ": "59"
+        },
+        {
+            "codeFac": "224",
+            "nomFac": "Gestion des entreprises de Développement Rural",
+            "univ": "59"
+        },
+        {
+            "codeFac": "225",
+            "nomFac": "Organisation Sociale",
+            "univ": "59"
+        },
+        {
+            "codeFac": "226",
+            "nomFac": "Environnement et Développement Durable",
+            "univ": "59"
+        },
+        {
+            "codeFac": "227",
+            "nomFac": "Techniques Rurales",
+            "univ": "59"
+        },
+        {
+            "codeFac": "228",
+            "nomFac": "Admnistration Rurale",
+            "univ": "59"
+        },
+        {
+            "codeFac": "229",
+            "nomFac": "Informatique de Gestion",
+            "univ": "59"
+        },
+        {
+            "codeFac": "230",
+            "nomFac": "Soins Généraux",
+            "univ": "60"
+        },
+        {
+            "codeFac": "239",
+            "nomFac": "Anglais-Cultures Africaines",
+            "univ": "61"
+        },
+        {
+            "codeFac": "240",
+            "nomFac": "Français-Langues Africaines",
+            "univ": "61"
+        },
+        {
+            "codeFac": "241",
+            "nomFac": "Geographie et Gestion de l'environnement",
+            "univ": "61"
+        },
+        {
+            "codeFac": "242",
+            "nomFac": "Histoire, Sciences Sociales et Gestion de Patrimoine",
+            "univ": "61"
+        },
+        {
+            "codeFac": "243",
+            "nomFac": "Biologie-Chimie",
+            "univ": "61"
+        },
+        {
+            "codeFac": "244",
+            "nomFac": "Math-Physique",
+            "univ": "61"
+        },
+        {
+            "codeFac": "246",
+            "nomFac": "Sciences Commerciales et Administratives",
+            "univ": "61"
+        },
+        {
+            "codeFac": "247",
+            "nomFac": "Gestion et admin. Des Inst. Scolaires et de Formation",
+            "univ": "61"
+        },
+        {
+            "codeFac": "249",
+            "nomFac": "Informatique de Gestion",
+            "univ": "61"
+        },
+        {
+            "codeFac": "251",
+            "nomFac": "Anglais",
+            "univ": "62"
+        },
+        {
+            "codeFac": "253",
+            "nomFac": "sces com et Adm",
+            "univ": "62"
+        },
+        {
+            "codeFac": "254",
+            "nomFac": "GIS",
+            "univ": "41"
+        },
+        {
+            "codeFac": "256",
+            "nomFac": "DLLA",
+            "univ": "64"
+        },
+        {
+            "codeFac": "257",
+            "nomFac": "DSEG",
+            "univ": "64"
+        },
+        {
+            "codeFac": "258",
+            "nomFac": "DSPE",
+            "univ": "64"
+        },
+        {
+            "codeFac": "259",
+            "nomFac": "DST",
+            "univ": "64"
+        },
+        {
+            "codeFac": "260",
+            "nomFac": "ST",
+            "univ": "52"
+        },
+        {
+            "codeFac": "261",
+            "nomFac": "TH",
+            "univ": "52"
+        },
+        {
+            "codeFac": "262",
+            "nomFac": "LLA",
+            "univ": "52"
+        },
+        {
+            "codeFac": "263",
+            "nomFac": "SEG",
+            "univ": "52"
+        },
+        {
+            "codeFac": "264",
+            "nomFac": "Sciences infirmières",
+            "univ": "65"
+        },
+        {
+            "codeFac": "265",
+            "nomFac": "Développement rural",
+            "univ": "65"
+        },
+        {
+            "codeFac": "266",
+            "nomFac": "S.S.P.A",
+            "univ": "66"
+        },
+        {
+            "codeFac": "267",
+            "nomFac": "L,L,A et Sces l`H.S",
+            "univ": "66"
+        },
+        {
+            "codeFac": "268",
+            "nomFac": "DROIT",
+            "univ": "66"
+        },
+        {
+            "codeFac": "269",
+            "nomFac": "PSY ET SCES L’EDUC",
+            "univ": "66"
+        },
+        {
+            "codeFac": "270",
+            "nomFac": "SCES AGRO.",
+            "univ": "66"
+        },
+        {
+            "codeFac": "271",
+            "nomFac": "Techniques de développement ",
+            "univ": "73"
+        },
+        {
+            "codeFac": "272",
+            "nomFac": "Techniques de gestion agricole ",
+            "univ": "73"
+        },
+        {
+            "codeFac": "273",
+            "nomFac": "Lettres et sciences humaines ",
+            "univ": "74"
+        },
+        {
+            "codeFac": "274",
+            "nomFac": "Sciences d'appui à l'enseignement ",
+            "univ": "74"
+        },
+        {
+            "codeFac": "275",
+            "nomFac": "Sciences naturelles et exactes",
+            "univ": "74"
+        },
+        {
+            "codeFac": "276",
+            "nomFac": "L'économie et gestion ",
+            "univ": "74"
+        },
+        {
+            "codeFac": "277",
+            "nomFac": "Coupe et couture ",
+            "univ": "76"
+        },
+        {
+            "codeFac": "278",
+            "nomFac": "Modélisme ",
+            "univ": "76"
+        },
+        {
+            "codeFac": "279",
+            "nomFac": "Hôtellerie et tourisme ",
+            "univ": "76"
+        },
+        {
+            "codeFac": "280",
+            "nomFac": "Économie ",
+            "univ": "68"
+        },
+        {
+            "codeFac": "281",
+            "nomFac": "Management ",
+            "univ": "68"
+        },
+        {
+            "codeFac": "282",
+            "nomFac": "Sciences informatiques ",
+            "univ": "68"
+        },
+        {
+            "codeFac": "283",
+            "nomFac": "G.R.H.A.S",
+            "univ": "68"
+        },
+        {
+            "codeFac": "285",
+            "nomFac": "G.B.F",
+            "univ": "68"
+        },
+        {
+            "codeFac": "286",
+            "nomFac": "Développement rural ",
+            "univ": "70"
+        },
+        {
+            "codeFac": "287",
+            "nomFac": "Techniques Agricoles ",
+            "univ": "70"
+        },
+        {
+            "codeFac": "288",
+            "nomFac": "S.J.P.A",
+            "univ": "77"
+        },
+        {
+            "codeFac": "289",
+            "nomFac": "Sciences agronomiques ",
+            "univ": "77"
+        },
+        {
+            "codeFac": "290",
+            "nomFac": "S. P. E",
+            "univ": "77"
+        },
+        {
+            "codeFac": "291",
+            "nomFac": "Sciences d'économie et gestion ",
+            "univ": "77"
+        },
+        {
+            "codeFac": "292",
+            "nomFac": "Sciences infirmières ",
+            "univ": "78"
+        },
+        {
+            "codeFac": "293",
+            "nomFac": "Gestion",
+            "univ": "78"
+        },
+        {
+            "codeFac": "294",
+            "nomFac": "Sciences infirmières ",
+            "univ": "69"
+        },
+        {
+            "codeFac": "295",
+            "nomFac": "Nutrition et diététique ",
+            "univ": "69"
+        },
+        {
+            "codeFac": "296",
+            "nomFac": "Logistique ",
+            "univ": "69"
+        },
+        {
+            "codeFac": "297",
+            "nomFac": "G.M.S.S",
+            "univ": "69"
+        },
+        {
+            "codeFac": "298",
+            "nomFac": "G.I.S",
+            "univ": "69"
+        },
+        {
+            "codeFac": "299",
+            "nomFac": "Bio médical ",
+            "univ": "69"
+        },
+        {
+            "codeFac": "300",
+            "nomFac": "Sciences de l'homme et de la société ",
+            "univ": "80"
+        },
+        {
+            "codeFac": "301",
+            "nomFac": "Domaine des Lettres, Langues et Arts ",
+            "univ": "72"
+        },
+        {
+            "codeFac": "302",
+            "nomFac": "Sciences et technologies ",
+            "univ": "72"
+        },
+        {
+            "codeFac": "303",
+            "nomFac": "Sciences économie de gestion ",
+            "univ": "72"
+        },
+        {
+            "codeFac": "304",
+            "nomFac": "Sciences de l'homme et de la société ",
+            "univ": "72"
+        },
+        {
+            "codeFac": "305",
+            "nomFac": "Sciences psychologique et de l'éducation ",
+            "univ": "72"
+        },
+        {
+            "codeFac": "306",
+            "nomFac": "Sciences Infirmières",
+            "univ": "63"
+        },
+        {
+            "codeFac": "307",
+            "nomFac": "Techniques de Laboratoire",
+            "univ": "63"
+        },
+        {
+            "codeFac": "308",
+            "nomFac": "Technique de Laboratoire",
+            "univ": "60"
+        },
+        {
+            "codeFac": "309",
+            "nomFac": "Sciences Infirmières",
+            "univ": "81"
+        },
+        {
+            "codeFac": "310",
+            "nomFac": "Techniques de Laboratoire",
+            "univ": "81"
+        },
+        {
+            "codeFac": "311",
+            "nomFac": "TECHNIQUES AGRICOLES ",
+            "univ": "82"
+        },
+        {
+            "codeFac": "312",
+            "nomFac": "GESTION DE RESSOURCES NATURELLES renouvelables ",
+            "univ": "82"
+        },
+        {
+            "codeFac": "313",
+            "nomFac": "G.I",
+            "univ": "83"
+        },
+        {
+            "codeFac": "314",
+            "nomFac": "T.S.D",
+            "univ": "83"
+        },
+        {
+            "codeFac": "315",
+            "nomFac": "S.C.F",
+            "univ": "83"
+        },
+        {
+            "codeFac": "316",
+            "nomFac": "G.E.E",
+            "univ": "83"
+        },
+        {
+            "codeFac": "317",
+            "nomFac": "Santé communautaire ",
+            "univ": "84"
+        },
+        {
+            "codeFac": "318",
+            "nomFac": "EASI",
+            "univ": "84"
+        },
+        {
+            "codeFac": "319",
+            "nomFac": "Sciences infirmières ",
+            "univ": "84"
+        },
+        {
+            "codeFac": "321",
+            "nomFac": "LETTRES ET SCIENCES HUMAINES ",
+            "univ": "79"
+        },
+        {
+            "codeFac": "322",
+            "nomFac": " Sciences naturelles et exactes ",
+            "univ": "79"
+        },
+        {
+            "codeFac": "323",
+            "nomFac": "Sections d'école d'application ",
+            "univ": "79"
+        },
+        {
+            "codeFac": "324",
+            "nomFac": "Sciences d'appui à l'enseignement ",
+            "univ": "79"
+        },
+        {
+            "codeFac": "325",
+            "nomFac": "BIBLIOTHÈQUE CENTRALE ",
+            "univ": "79"
+        },
+        {
+            "codeFac": "326",
+            "nomFac": "Français et langues africaines ",
+            "univ": "86"
+        },
+        {
+            "codeFac": "327",
+            "nomFac": "Anglais et culture africaine ",
+            "univ": "86"
+        },
+        {
+            "codeFac": "328",
+            "nomFac": "GAISF",
+            "univ": "86"
+        },
+        {
+            "codeFac": "331",
+            "nomFac": "Histoire ",
+            "univ": "86"
+        },
+        {
+            "codeFac": "332",
+            "nomFac": "G.C.A",
+            "univ": "86"
+        },
+        {
+            "codeFac": "333",
+            "nomFac": "Math-physique",
+            "univ": "86"
+        },
+        {
+            "codeFac": "334",
+            "nomFac": "Math-info",
+            "univ": "86"
+        },
+        {
+            "codeFac": "335",
+            "nomFac": "P.D.C",
+            "univ": "86"
+        },
+        {
+            "codeFac": "336",
+            "nomFac": "Production et santé animale ",
+            "univ": "86"
+        },
+        {
+            "codeFac": "337",
+            "nomFac": "Informatique et technologies ",
+            "univ": "86"
+        },
+        {
+            "codeFac": "338",
+            "nomFac": "GAISF",
+            "univ": "87"
+        },
+        {
+            "codeFac": "339",
+            "nomFac": "FLA",
+            "univ": "87"
+        },
+        {
+            "codeFac": "340",
+            "nomFac": "HISTOIRE ",
+            "univ": "87"
+        },
+        {
+            "codeFac": "341",
+            "nomFac": "S.A.V",
+            "univ": "87"
+        },
+        {
+            "codeFac": "342",
+            "nomFac": "Informatique de gestion ",
+            "univ": "87"
+        },
+        {
+            "codeFac": "343",
+            "nomFac": "Développement rural ",
+            "univ": "63"
+        },
+        {
+            "codeFac": "344",
+            "nomFac": "Développement rural ",
+            "univ": "88"
+        },
+        {
+            "codeFac": "345",
+            "nomFac": "Peda et Tech Appli",
+            "univ": "90"
+        },
+        {
+            "codeFac": "346",
+            "nomFac": "Soins Généraux",
+            "univ": "94"
+        },
+        {
+            "codeFac": "347",
+            "nomFac": "Soins pédiatriques ",
+            "univ": "94"
+        },
+        {
+            "codeFac": "348",
+            "nomFac": "ENS et Adm en soins infirmiers ",
+            "univ": "94"
+        },
+        {
+            "codeFac": "349",
+            "nomFac": "GEST des orga de santé ",
+            "univ": "94"
+        },
+        {
+            "codeFac": "350",
+            "nomFac": "Épidémiologie ",
+            "univ": "94"
+        },
+        {
+            "codeFac": "351",
+            "nomFac": "Tech d'habillement",
+            "univ": "95"
+        },
+        {
+            "codeFac": "352",
+            "nomFac": "Modélisme ",
+            "univ": "95"
+        },
+        {
+            "codeFac": "353",
+            "nomFac": "LSH",
+            "univ": "96"
+        },
+        {
+            "codeFac": "354",
+            "nomFac": "SAE",
+            "univ": "96"
+        },
+        {
+            "codeFac": "355",
+            "nomFac": "SNE",
+            "univ": "96"
+        },
+        {
+            "codeFac": "356",
+            "nomFac": "LLASL",
+            "univ": "97"
+        },
+        {
+            "codeFac": "357",
+            "nomFac": "SNE",
+            "univ": "97"
+        },
+        {
+            "codeFac": "358",
+            "nomFac": "SEG",
+            "univ": "97"
+        },
+        {
+            "codeFac": "359",
+            "nomFac": "SPE",
+            "univ": "97"
+        },
+        {
+            "codeFac": "360",
+            "nomFac": "ST",
+            "univ": "97"
+        },
+        {
+            "codeFac": "361",
+            "nomFac": "Santé Publique ",
+            "univ": "66"
+        },
+        {
+            "codeFac": "362",
+            "nomFac": "Sciences et Tech.",
+            "univ": "66"
+        },
+        {
+            "codeFac": "363",
+            "nomFac": "Lettre et Sces H",
+            "univ": "56"
+        },
+        {
+            "codeFac": "364",
+            "nomFac": "Sces Nat et Exact",
+            "univ": "56"
+        },
+        {
+            "codeFac": "365",
+            "nomFac": "Sces Sociale ",
+            "univ": "56"
+        },
+        {
+            "codeFac": "366",
+            "nomFac": "Sces A. E",
+            "univ": "56"
+        },
+        {
+            "codeFac": "367",
+            "nomFac": "L.L. Art",
+            "univ": "56"
+        },
+        {
+            "codeFac": "368",
+            "nomFac": "Sces L'H et S.",
+            "univ": "56"
+        },
+        {
+            "codeFac": "369",
+            "nomFac": "Sces Eco et Gest.",
+            "univ": "56"
+        },
+        {
+            "codeFac": "370",
+            "nomFac": "Sces Psy et Éduc.",
+            "univ": "56"
+        },
+        {
+            "codeFac": "371",
+            "nomFac": "Sces et Tech",
+            "univ": "56"
+        },
+        {
+            "codeFac": "372",
+            "nomFac": "FLA",
+            "univ": "100"
+        },
+        {
+            "codeFac": "373",
+            "nomFac": "AGROVET",
+            "univ": "100"
+        },
+        {
+            "codeFac": "374",
+            "nomFac": "H.S.S.G.P",
+            "univ": "100"
+        },
+        {
+            "codeFac": "375",
+            "nomFac": "S.C.A",
+            "univ": "100"
+        },
+        {
+            "codeFac": "376",
+            "nomFac": "GAISF",
+            "univ": "100"
+        },
+        {
+            "codeFac": "377",
+            "nomFac": "Imagerie Médicale",
+            "univ": "101"
+        },
+        {
+            "codeFac": "378",
+            "nomFac": "Kinésithérapie",
+            "univ": "101"
+        },
+        {
+            "codeFac": "379",
+            "nomFac": "Sage-Femme",
+            "univ": "101"
+        },
+        {
+            "codeFac": "380",
+            "nomFac": "Technique de Laboratoire",
+            "univ": "101"
+        },
+        {
+            "codeFac": "381",
+            "nomFac": "Nutrition Humaine",
+            "univ": "101"
+        },
+        {
+            "codeFac": "382",
+            "nomFac": "Pédiatrie",
+            "univ": "101"
+        },
+        {
+            "codeFac": "383",
+            "nomFac": "Gestion des Institutions de Santé",
+            "univ": "101"
+        },
+        {
+            "codeFac": "384",
+            "nomFac": "Sciences Agronomiques et Veterinaires",
+            "univ": "102"
+        },
+        {
+            "codeFac": "385",
+            "nomFac": "Sciences de Développement",
+            "univ": "102"
+        },
+        {
+            "codeFac": "386",
+            "nomFac": "Sciences de L'information et de la Communication",
+            "univ": "102"
+        },
+        {
+            "codeFac": "387",
+            "nomFac": "Sciences Juridiques, Politiques et Administratives",
+            "univ": "102"
+        },
+        {
+            "codeFac": "388",
+            "nomFac": "Sciences Appliquées",
+            "univ": "102"
+        },
+        {
+            "codeFac": "389",
+            "nomFac": "Sciences Juridiques",
+            "univ": "103"
+        },
+        {
+            "codeFac": "390",
+            "nomFac": "Sciences Informatiques",
+            "univ": "103"
+        },
+        {
+            "codeFac": "391",
+            "nomFac": "Sciences de l'Education",
+            "univ": "103"
+        },
+        {
+            "codeFac": "392",
+            "nomFac": "Psychologie",
+            "univ": "103"
+        },
+        {
+            "codeFac": "393",
+            "nomFac": "Droit",
+            "univ": "103"
+        },
+        {
+            "codeFac": "394",
+            "nomFac": "Administration et Planification de L'éducation",
+            "univ": "103"
+        },
+        {
+            "codeFac": "395",
+            "nomFac": "Lettres et Sciences Humaines",
+            "univ": "104"
+        },
+        {
+            "codeFac": "398",
+            "nomFac": "GAISF",
+            "univ": "105"
+        },
+        {
+            "codeFac": "399",
+            "nomFac": "FLA",
+            "univ": "105"
+        },
+        {
+            "codeFac": "400",
+            "nomFac": "S.H",
+            "univ": "105"
+        },
+        {
+            "codeFac": "401",
+            "nomFac": "GEG",
+            "univ": "105"
+        },
+        {
+            "codeFac": "402",
+            "nomFac": "S.AV",
+            "univ": "105"
+        },
+        {
+            "codeFac": "403",
+            "nomFac": "ACA",
+            "univ": "105"
+        },
+        {
+            "codeFac": "404",
+            "nomFac": "S.I.C",
+            "univ": "89"
+        },
+        {
+            "codeFac": "405",
+            "nomFac": "Sces Éduc. et Paix",
+            "univ": "89"
+        },
+        {
+            "codeFac": "406",
+            "nomFac": "Sces Agro.",
+            "univ": "89"
+        },
+        {
+            "codeFac": "407",
+            "nomFac": "Sces Eco. Et Gest.",
+            "univ": "89"
+        },
+        {
+            "codeFac": "408",
+            "nomFac": "Sces Psy et Éduc.",
+            "univ": "89"
+        },
+        {
+            "codeFac": "409",
+            "nomFac": "Santé Publique ",
+            "univ": "89"
+        },
+        {
+            "codeFac": "410",
+            "nomFac": "Sciences de Lettres, Langues et Arts",
+            "univ": "107"
+        },
+        {
+            "codeFac": "411",
+            "nomFac": "Sciences et Technologie",
+            "univ": "107"
+        },
+        {
+            "codeFac": "412",
+            "nomFac": "Sciences Economiques et de Gestion",
+            "univ": "107"
+        },
+        {
+            "codeFac": "413",
+            "nomFac": "Sciences Psychologique et de l'Education",
+            "univ": "107"
+        },
+        {
+            "codeFac": "414",
+            "nomFac": "Sciences de l'Homme et de la Société",
+            "univ": "107"
+        },
+        {
+            "codeFac": "415",
+            "nomFac": "Sciences Economiques Et De Gestion ",
+            "univ": "108"
+        },
+        {
+            "codeFac": "416",
+            "nomFac": "Préparatoire",
+            "univ": "109"
+        },
+        {
+            "codeFac": "417",
+            "nomFac": "Bâtiment et Travaux publics",
+            "univ": "109"
+        },
+        {
+            "codeFac": "418",
+            "nomFac": "Géomètre Topographe",
+            "univ": "109"
+        },
+        {
+            "codeFac": "419",
+            "nomFac": "Archtecture",
+            "univ": "109"
+        },
+        {
+            "codeFac": "420",
+            "nomFac": "Théo Prot.",
+            "univ": "89"
+        },
+        {
+            "codeFac": "421",
+            "nomFac": "Droit ",
+            "univ": "91"
+        },
+        {
+            "codeFac": "422",
+            "nomFac": "Économie ",
+            "univ": "91"
+        },
+        {
+            "codeFac": "423",
+            "nomFac": "Agronomie ",
+            "univ": "91"
+        },
+        {
+            "codeFac": "424",
+            "nomFac": "S.S.P.A",
+            "univ": "91"
+        },
+        {
+            "codeFac": "425",
+            "nomFac": "Santé Publique ",
+            "univ": "91"
+        },
+        {
+            "codeFac": "426",
+            "nomFac": "Sces Ingénieur ",
+            "univ": "91"
+        },
+        {
+            "codeFac": "427",
+            "nomFac": "Dev. Com et Envi.",
+            "univ": "91"
+        },
+        {
+            "codeFac": "428",
+            "nomFac": "Sces Géologie ",
+            "univ": "91"
+        },
+        {
+            "codeFac": "429",
+            "nomFac": "Psy. Sces Éduc ",
+            "univ": "91"
+        },
+        {
+            "codeFac": "430",
+            "nomFac": "Préparatoire",
+            "univ": "67"
+        },
+        {
+            "codeFac": "431",
+            "nomFac": "Mécanique de Production",
+            "univ": "67"
+        },
+        {
+            "codeFac": "432",
+            "nomFac": "Electrotechnique",
+            "univ": "67"
+        },
+        {
+            "codeFac": "433",
+            "nomFac": "Mécanique de Production",
+            "univ": "67"
+        },
+        {
+            "codeFac": "434",
+            "nomFac": "Mécanique Energétique",
+            "univ": "67"
+        },
+        {
+            "codeFac": "435",
+            "nomFac": "Mécanique Appliquée",
+            "univ": "67"
+        },
+        {
+            "codeFac": "436",
+            "nomFac": "Electronique",
+            "univ": "67"
+        },
+        {
+            "codeFac": "437",
+            "nomFac": "Informatique",
+            "univ": "67"
+        },
+        {
+            "codeFac": "438",
+            "nomFac": "Construction Mécanique",
+            "univ": "67"
+        },
+        {
+            "codeFac": "439",
+            "nomFac": "Maintenance des Matériaux Médicaux",
+            "univ": "67"
+        },
+        {
+            "codeFac": "440",
+            "nomFac": "E.A.S.I",
+            "univ": "60"
+        },
+        {
+            "codeFac": "441",
+            "nomFac": "Sage-Femme",
+            "univ": "60"
+        },
+        {
+            "codeFac": "442",
+            "nomFac": "Pédiatrie",
+            "univ": "60"
+        },
+        {
+            "codeFac": "443",
+            "nomFac": "Nutrition",
+            "univ": "60"
+        },
+        {
+            "codeFac": "444",
+            "nomFac": "Sciences et Techniques de développement",
+            "univ": "110"
+        },
+        {
+            "codeFac": "445",
+            "nomFac": "Sciences commerciales et Financieres",
+            "univ": "110"
+        },
+        {
+            "codeFac": "446",
+            "nomFac": "Technique Agricole",
+            "univ": "111"
+        },
+        {
+            "codeFac": "447",
+            "nomFac": "Développement Rural",
+            "univ": "111"
+        },
+        {
+            "codeFac": "448",
+            "nomFac": "Gestion des Entr. Dev. Rural",
+            "univ": "111"
+        },
+        {
+            "codeFac": "449",
+            "nomFac": "Planification Régionale et Nationale",
+            "univ": "111"
+        },
+        {
+            "codeFac": "450",
+            "nomFac": "Env. Dév. Durable",
+            "univ": "111"
+        },
+        {
+            "codeFac": "451",
+            "nomFac": "FLA",
+            "univ": "112"
+        },
+        {
+            "codeFac": "453",
+            "nomFac": "ACA",
+            "univ": "112"
+        },
+        {
+            "codeFac": "454",
+            "nomFac": "Histoire Sciences Sociales et Gestion du Patrimoine",
+            "univ": "112"
+        },
+        {
+            "codeFac": "455",
+            "nomFac": "Géo. Gest. de l'environnement",
+            "univ": "112"
+        },
+        {
+            "codeFac": "456",
+            "nomFac": "Math-Physique",
+            "univ": "112"
+        },
+        {
+            "codeFac": "457",
+            "nomFac": "Gest. Admin. Inst. Scol. et de Formation",
+            "univ": "112"
+        },
+        {
+            "codeFac": "458",
+            "nomFac": "sciences de la santé",
+            "univ": "114"
+        },
+        {
+            "codeFac": "459",
+            "nomFac": "Sciences Juridiques, Politiques et Administratives ",
+            "univ": "114"
+        },
+        {
+            "codeFac": "460",
+            "nomFac": "Sciences Psychologiques et de l’Education",
+            "univ": "114"
+        },
+        {
+            "codeFac": "461",
+            "nomFac": "Sciences Agronomiques et Environnement ",
+            "univ": "114"
+        },
+        {
+            "codeFac": "462",
+            "nomFac": "Biologie-Chimie",
+            "univ": "118"
+        },
+        {
+            "codeFac": "464",
+            "nomFac": "Mathématiques-Physique",
+            "univ": "118"
+        },
+        {
+            "codeFac": "465",
+            "nomFac": "Conception des Systèmes Informatiques",
+            "univ": "118"
+        },
+        {
+            "codeFac": "466",
+            "nomFac": "Géographie et Gestion de l'Environnement",
+            "univ": "118"
+        },
+        {
+            "codeFac": "467",
+            "nomFac": "Pyrotechnie et Défense des Cultures",
+            "univ": "118"
+        },
+        {
+            "codeFac": "468",
+            "nomFac": "Production et Santé Animales",
+            "univ": "118"
+        },
+        {
+            "codeFac": "469",
+            "nomFac": "Anglais-Culture Africaine",
+            "univ": "118"
+        },
+        {
+            "codeFac": "470",
+            "nomFac": "Français-Langue Africaines",
+            "univ": "118"
+        },
+        {
+            "codeFac": "471",
+            "nomFac": "Histoire",
+            "univ": "118"
+        },
+        {
+            "codeFac": "472",
+            "nomFac": "Gestion Commerciale et Admnistrative",
+            "univ": "118"
+        },
+        {
+            "codeFac": "473",
+            "nomFac": "Gestion et Administration scolaires et de formation",
+            "univ": "118"
+        },
+        {
+            "codeFac": "474",
+            "nomFac": "Droit",
+            "univ": "117"
+        },
+        {
+            "codeFac": "475",
+            "nomFac": "Sciences Sociales, Politiques et Administratives",
+            "univ": "117"
+        },
+        {
+            "codeFac": "476",
+            "nomFac": "Psychologie et Sciences de l'éducation",
+            "univ": "117"
+        },
+        {
+            "codeFac": "477",
+            "nomFac": "Santé publique",
+            "univ": "117"
+        },
+        {
+            "codeFac": "478",
+            "nomFac": "Lettres et Sciences Humaines",
+            "univ": "116"
+        },
+        {
+            "codeFac": "479",
+            "nomFac": "Sciences d'Appui à l'enseignement",
+            "univ": "116"
+        },
+        {
+            "codeFac": "480",
+            "nomFac": "Sections Techniques",
+            "univ": "116"
+        },
+        {
+            "codeFac": "481",
+            "nomFac": "Sciences Exactes",
+            "univ": "116"
+        },
+        {
+            "codeFac": "482",
+            "nomFac": "Sciences et Technologies Industrielles ",
+            "univ": "115"
+        },
+        {
+            "codeFac": "483",
+            "nomFac": "Art et Métiers ",
+            "univ": "115"
+        },
+        {
+            "codeFac": "484",
+            "nomFac": "Sc. Psychologiques et de l'éducation",
+            "univ": "115"
+        },
+        {
+            "codeFac": "487",
+            "nomFac": "Sciences Economiques et de Gestion",
+            "univ": "115"
+        },
+        {
+            "codeFac": "488",
+            "nomFac": "Lettres, Langues et Arts",
+            "univ": "115"
+        },
+        {
+            "codeFac": "489",
+            "nomFac": "Sces Gest Com et Adm",
+            "univ": "119"
+        },
+        {
+            "codeFac": "490",
+            "nomFac": "Lettres et Scs humaines",
+            "univ": "120"
+        },
+        {
+            "codeFac": "492",
+            "nomFac": "Sces Exactes",
+            "univ": "120"
+        },
+        {
+            "codeFac": "493",
+            "nomFac": "Philosophie ",
+            "univ": "122"
+        },
+        {
+            "codeFac": "499",
+            "nomFac": "Sces Agro. Et Envi.",
+            "univ": "127"
+        },
+        {
+            "codeFac": "500",
+            "nomFac": "Sces Infirmières ",
+            "univ": "126"
+        },
+        {
+            "codeFac": "501",
+            "nomFac": "Sage Femme ",
+            "univ": "126"
+        },
+        {
+            "codeFac": "503",
+            "nomFac": "Nutri-Diete",
+            "univ": "126"
+        },
+        {
+            "codeFac": "504",
+            "nomFac": "Tech Pharma",
+            "univ": "126"
+        },
+        {
+            "codeFac": "505",
+            "nomFac": "BioMed",
+            "univ": "126"
+        },
+        {
+            "codeFac": "506",
+            "nomFac": "Santé Com.",
+            "univ": "126"
+        },
+        {
+            "codeFac": "507",
+            "nomFac": "G.O. Santé ",
+            "univ": "126"
+        },
+        {
+            "codeFac": "508",
+            "nomFac": "Sces Technologiques",
+            "univ": "129"
+        },
+        {
+            "codeFac": "509",
+            "nomFac": "Info Appli Gest",
+            "univ": "129"
+        },
+        {
+            "codeFac": "510",
+            "nomFac": "Polytech",
+            "univ": "129"
+        },
+        {
+            "codeFac": "511",
+            "nomFac": "Sces Agro et Env",
+            "univ": "131"
+        },
+        {
+            "codeFac": "512",
+            "nomFac": "Sces Eco et Gest",
+            "univ": "131"
+        },
+        {
+            "codeFac": "513",
+            "nomFac": "Médecine et Pharma",
+            "univ": "131"
+        },
+        {
+            "codeFac": "514",
+            "nomFac": "Psychologie et Sces de l'edu",
+            "univ": "131"
+        },
+        {
+            "codeFac": "515",
+            "nomFac": "Droit ",
+            "univ": "131"
+        },
+        {
+            "codeFac": "516",
+            "nomFac": "IBTP",
+            "univ": "131"
+        },
+        {
+            "codeFac": "517",
+            "nomFac": "Sciences Agro et Env",
+            "univ": "132"
+        },
+        {
+            "codeFac": "518",
+            "nomFac": "Sces Juridique , Pol et Adm",
+            "univ": "132"
+        },
+        {
+            "codeFac": "520",
+            "nomFac": "Sces psychologique et edu",
+            "univ": "132"
+        },
+        {
+            "codeFac": "521",
+            "nomFac": "Sciences et technologies ",
+            "univ": "132"
+        },
+        {
+            "codeFac": "522",
+            "nomFac": "Sciences de la santé ",
+            "univ": "132"
+        },
+        {
+            "codeFac": "524",
+            "nomFac": "Sces Eco et gestion ",
+            "univ": "132"
+        },
+        {
+            "codeFac": "525",
+            "nomFac": "LETTRES ET SCES HUMAINS",
+            "univ": "128"
+        },
+        {
+            "codeFac": "526",
+            "nomFac": "SCIENCES EXACTES ",
+            "univ": "128"
+        },
+        {
+            "codeFac": "527",
+            "nomFac": "SCES COM, ADMI ET INFO",
+            "univ": "128"
+        },
+        {
+            "codeFac": "528",
+            "nomFac": "Sces Juridique, politique et Adm",
+            "univ": "133"
+        },
+        {
+            "codeFac": "529",
+            "nomFac": "Sces Économique et Gest",
+            "univ": "133"
+        },
+        {
+            "codeFac": "530",
+            "nomFac": "Sces de la santé ",
+            "univ": "133"
+        },
+        {
+            "codeFac": "531",
+            "nomFac": "Sces de l'homme et de la société",
+            "univ": "133"
+        },
+        {
+            "codeFac": "532",
+            "nomFac": "Sces Agro et Env",
+            "univ": "133"
+        },
+        {
+            "codeFac": "533",
+            "nomFac": "Gestion Fin et Adm",
+            "univ": "123"
+        },
+        {
+            "codeFac": "534",
+            "nomFac": "Gestion RH",
+            "univ": "123"
+        },
+        {
+            "codeFac": "535",
+            "nomFac": "Sces-tech de Dev",
+            "univ": "123"
+        },
+        {
+            "codeFac": "536",
+            "nomFac": "Sces Eco-Gest",
+            "univ": "123"
+        },
+        {
+            "codeFac": "537",
+            "nomFac": "Sces Agro et Env",
+            "univ": "123"
+        },
+        {
+            "codeFac": "540",
+            "nomFac": "Sces Hom-Soc",
+            "univ": "123"
+        },
+        {
+            "codeFac": "541",
+            "nomFac": "Sces de la santé",
+            "univ": "123"
+        },
+        {
+            "codeFac": "542",
+            "nomFac": "FSSAP",
+            "univ": "136"
+        },
+        {
+            "codeFac": "543",
+            "nomFac": "Droit",
+            "univ": "136"
+        },
+        {
+            "codeFac": "544",
+            "nomFac": "Psycho et SE",
+            "univ": "136"
+        },
+        {
+            "codeFac": "545",
+            "nomFac": "Médecine et Santé Publique",
+            "univ": "136"
+        },
+        {
+            "codeFac": "546",
+            "nomFac": "Économie et Gestion ",
+            "univ": "136"
+        },
+        {
+            "codeFac": "547",
+            "nomFac": "Sces Com-Fin",
+            "univ": "130"
+        },
+        {
+            "codeFac": "548",
+            "nomFac": "INFO",
+            "univ": "130"
+        },
+        {
+            "codeFac": "549",
+            "nomFac": "FLA",
+            "univ": "138"
+        },
+        {
+            "codeFac": "550",
+            "nomFac": "AGROVET",
+            "univ": "138"
+        },
+        {
+            "codeFac": "551",
+            "nomFac": "H.S.S.G.P",
+            "univ": "138"
+        },
+        {
+            "codeFac": "552",
+            "nomFac": "S.C.A",
+            "univ": "138"
+        },
+        {
+            "codeFac": "553",
+            "nomFac": "GAISF",
+            "univ": "138"
+        },
+        {
+            "codeFac": "554",
+            "nomFac": "Sciences Infirmières",
+            "univ": "139"
+        },
+        {
+            "codeFac": "555",
+            "nomFac": "Sage-Femme",
+            "univ": "139"
+        },
+        {
+            "codeFac": "556",
+            "nomFac": "Sciences infirmières",
+            "univ": "135"
+        },
+        {
+            "codeFac": "557",
+            "nomFac": "Santé Publique",
+            "univ": "135"
+        },
+        {
+            "codeFac": "558",
+            "nomFac": "G.I.S",
+            "univ": "135"
+        },
+        {
+            "codeFac": "569",
+            "nomFac": "AGRONOMIE ",
+            "univ": "141"
+        },
+        {
+            "codeFac": "570",
+            "nomFac": "DROIT ET CRIMINOLOGIE ",
+            "univ": "141"
+        },
+        {
+            "codeFac": "571",
+            "nomFac": "ÉCONOMIE ET GESTION ",
+            "univ": "141"
+        },
+        {
+            "codeFac": "572",
+            "nomFac": "MÉDECINE",
+            "univ": "141"
+        },
+        {
+            "codeFac": "573",
+            "nomFac": "POLYTECHNIQUE ",
+            "univ": "141"
+        },
+        {
+            "codeFac": "574",
+            "nomFac": "ARCHITECTURE ",
+            "univ": "141"
+        },
+        {
+            "codeFac": "575",
+            "nomFac": "SCIENCES ",
+            "univ": "141"
+        },
+        {
+            "codeFac": "576",
+            "nomFac": "SCIENCES SOCIALES ",
+            "univ": "141"
+        },
+        {
+            "codeFac": "578",
+            "nomFac": "AGRO ET BIODIVERSITÉ ",
+            "univ": "137"
+        },
+        {
+            "codeFac": "579",
+            "nomFac": "PSYCHOLOGIE ET SCES DE L'EDU",
+            "univ": "137"
+        },
+        {
+            "codeFac": "580",
+            "nomFac": "SCES SOCIALES, ADMI ET POLITIQUES ",
+            "univ": "137"
+        },
+        {
+            "codeFac": "581",
+            "nomFac": "SCIENCES ECO ET GEST",
+            "univ": "137"
+        },
+        {
+            "codeFac": "582",
+            "nomFac": "DROIT",
+            "univ": "137"
+        },
+        {
+            "codeFac": "583",
+            "nomFac": "INFO ET GESTION ",
+            "univ": "99"
+        },
+        {
+            "codeFac": "584",
+            "nomFac": "ENTREP ET GESTION PME",
+            "univ": "99"
+        },
+        {
+            "codeFac": "585",
+            "nomFac": "DOUANE ET COMMERCE EXT",
+            "univ": "99"
+        },
+        {
+            "codeFac": "586",
+            "nomFac": "Gestion RH",
+            "univ": "99"
+        },
+        {
+            "codeFac": "587",
+            "nomFac": "MARKETING ET DYNAMIQUE COM",
+            "univ": "99"
+        },
+        {
+            "codeFac": "588",
+            "nomFac": "COMPTABILITÉ ET FINANCE",
+            "univ": "99"
+        },
+        {
+            "codeFac": "589",
+            "nomFac": "FISCALITÉ ",
+            "univ": "99"
+        },
+        {
+            "codeFac": "590",
+            "nomFac": "Sces Commerciale et Finance",
+            "univ": "140"
+        },
+        {
+            "codeFac": "591",
+            "nomFac": "INFORMATIQUE ",
+            "univ": "141"
+        },
+        {
+            "codeFac": "592",
+            "nomFac": "Communication ",
+            "univ": "141"
+        },
+        {
+            "codeFac": "594",
+            "nomFac": "PV",
+            "univ": "141"
+        },
+        {
+            "codeFac": "595",
+            "nomFac": "ENVIRONNEMENT ",
+            "univ": "141"
+        },
+        {
+            "codeFac": "596",
+            "nomFac": "ST",
+            "univ": "141"
+        },
+        {
+            "codeFac": "597",
+            "nomFac": "RTEL",
+            "univ": "141"
+        },
+        {
+            "codeFac": "600",
+            "nomFac": "Scies Infirmière et Soins Gen",
+            "univ": "145"
+        },
+        {
+            "codeFac": "601",
+            "nomFac": "Sage femme",
+            "univ": "145"
+        },
+        {
+            "codeFac": "602",
+            "nomFac": "Pédiatrie ",
+            "univ": "145"
+        },
+        {
+            "codeFac": "603",
+            "nomFac": "Tech Lab/ Biologie médicale ",
+            "univ": "145"
+        },
+        {
+            "codeFac": "604",
+            "nomFac": "SCES des aliments/ Nutrition et Diététique ",
+            "univ": "145"
+        },
+        {
+            "codeFac": "605",
+            "nomFac": "Anesthésiste et Rea",
+            "univ": "145"
+        },
+        {
+            "codeFac": "606",
+            "nomFac": "Tech Pharmaceutique ",
+            "univ": "145"
+        },
+        {
+            "codeFac": "607",
+            "nomFac": "Santé publique/santé com",
+            "univ": "145"
+        },
+        {
+            "codeFac": "608",
+            "nomFac": "Gynéco-obstétrique ",
+            "univ": "145"
+        },
+        {
+            "codeFac": "609",
+            "nomFac": "Théologie Ev ",
+            "univ": "146"
+        },
+        {
+            "codeFac": "610",
+            "nomFac": "Psychologie et SCES de l'éducation ",
+            "univ": "146"
+        },
+        {
+            "codeFac": "611",
+            "nomFac": "Économie et gestion ",
+            "univ": "146"
+        },
+        {
+            "codeFac": "612",
+            "nomFac": "Polytech ",
+            "univ": "146"
+        },
+        {
+            "codeFac": "613",
+            "nomFac": "SCES INFORMATIONS et COM",
+            "univ": "146"
+        },
+        {
+            "codeFac": "614",
+            "nomFac": "Agronomie ",
+            "univ": "146"
+        },
+        {
+            "codeFac": "615",
+            "nomFac": "Vétérinaire ",
+            "univ": "146"
+        },
+        {
+            "codeFac": "616",
+            "nomFac": "Environnement ",
+            "univ": "146"
+        },
+        {
+            "codeFac": "617",
+            "nomFac": "Environnement et développement communautaire ",
+            "univ": "146"
+        }
+    ]
+}
