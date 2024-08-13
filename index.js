@@ -3,9 +3,11 @@ const morgan = require('morgan'); // Import morgan
 const app = express();
 const db = require('./config/db');
 require('dotenv').config();
+const cors = require('cors');
 
 app.use(express.json());
 app.use(morgan('dev')); // Use morgan middleware to log requests
+app.use(cors());
 
 // Import and use routes
 app.use('/api/departments', require('./routes/departments'));
