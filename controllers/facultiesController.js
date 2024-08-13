@@ -24,6 +24,20 @@ exports.getFacultyById = async (req, res) => {
   }
 };
 
+// Get a faculty by instution ID
+exports.getFacultyByinstutionId = async (req, res) => {
+  const { institution_id } = req.params;
+  try {
+    const [rows] = await db.query('SELECT * FROM faculties WHERE institution_id = ?', [institution_id]);
+    if (rows.length === 0) {
+      return res.status(404).json({ error: 'Faculty not found' });
+    }
+    res.json(rows);
+  } catch (error) {
+    res.status(500).json({ error: 'Failed to fetch faculty' });
+  }
+};
+
 // Create a new faculty
 exports.createFaculty = async (req, res) => {
   const { name } = req.body;
