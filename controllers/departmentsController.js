@@ -10,6 +10,20 @@ exports.getAllDepartments = async (req, res) => {
   }
 };
 
+// Get a department by faculityID
+exports.getDepartmentByfacultyID = async (req, res) => {
+  const { faculty_id } = req.params;
+  try {
+    const [rows] = await db.query('SELECT * FROM departments WHERE faculty_id = ?', [faculty_id]);
+    if (rows.length === 0) {
+      return res.status(404).json({ error: 'Department not found' });
+    }
+    res.json(rows);
+  } catch (error) {
+    res.status(500).json({ error: 'Failed to fetch department' });
+  }
+};
+
 // Get a department by ID
 exports.getDepartmentById = async (req, res) => {
   const { id } = req.params;
