@@ -18,6 +18,7 @@ app.use('/api/institutions', require('./routes/institutions'));
 app.use('/api/provinces', require('./routes/provinces'));
 app.use('/api/students', require('./routes/students'));
 app.use('/api/users', require('./routes/users'));
+app.use('/api/agents', require('./routes/agents'));
 
 app.get("/", (req, res) => {
     res.status(200).json({
