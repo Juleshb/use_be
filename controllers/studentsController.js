@@ -10,6 +10,17 @@ exports.getAllStudents = async (req, res) => {
   }
 };
 
+
+//Get total STUDENTS
+exports.getTotalStudents = async (req, res) => {
+  try {
+    const [rows] = await db.query('SELECT COUNT(*) FROM students');
+    res.json(rows);
+  } catch (error) {
+    res.status(500).json({ error: 'Failed to fetch students' });
+  }
+};
+
 // Get a student by ID
 exports.getStudentById = async (req, res) => {
   const { id } = req.params;
@@ -19,6 +30,20 @@ exports.getStudentById = async (req, res) => {
       return res.status(404).json({ error: 'Student not found' });
     }
     res.json(rows[0]);
+  } catch (error) {
+    res.status(500).json({ error: 'Failed to fetch student' });
+  }
+};
+
+// Get a student by matricule
+exports.getStudentById = async (req, res) => {
+  const { matricule } = req.params;
+  try {
+    const [rows] = await db.query('SELECT * FROM students WHERE matricule = ?', [matricule]);
+    if (rows.length === 0) {
+      return res.status(404).json({ error: 'Student not found' });
+    }
+    res.json(rows);
   } catch (error) {
     res.status(500).json({ error: 'Failed to fetch student' });
   }

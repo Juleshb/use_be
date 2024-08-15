@@ -24,6 +24,16 @@ exports.getFacultyById = async (req, res) => {
   }
 };
 
+// Get an Total institution 
+exports.getTotalFaculties = async (req, res) => {
+  try {
+    const [rows] = await db.query('SELECT COUNT(*) FROM faculties');
+    res.json(rows);
+  } catch (error) {
+    res.status(500).json({ error: 'Failed to fetch faculties' });
+  }
+};
+
 // Get a faculty by instution ID
 exports.getFacultyByinstutionId = async (req, res) => {
   const { institution_id } = req.params;

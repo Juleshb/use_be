@@ -2,7 +2,6 @@ const db = require('../config/db');
 const bcrypt = require('bcryptjs');
 const jwt = require('jsonwebtoken');
 
-// User login
 exports.login = async (req, res) => {
   const { email, password } = req.body;
 
@@ -28,11 +27,15 @@ exports.login = async (req, res) => {
       { expiresIn: '1h' } // Token expiration time
     );
 
-    res.json({ token });
+    // Return the token and user details, excluding the password
+    const { password: _, ...userDetails } = user; // Exclude password from the response
+
+    res.json({ token, user: userDetails });
   } catch (error) {
     res.status(500).json({ error: 'Failed to log in' });
   }
 };
+
 
 
 // Get all users
@@ -59,26 +62,58 @@ exports.getUserById = async (req, res) => {
   }
 };
 
-// Create a new user
 exports.createUser = async (req, res) => {
-    const { name, email, password, role, province_id, institution_id, faculty_id, department_id } = req.body;
-  
-    try {
-      // Hash the password before saving
-      const salt = await bcrypt.genSalt(10);
-      const hashedPassword = await bcrypt.hash(password, salt);
-  
-      const [result] = await db.query(
-        `INSERT INTO users (name, email, password, role, province_id, institution_id, faculty_id, department_id) 
-         VALUES (?, ?, ?, ?, ?, ?, ?, ?)`,
-        [name, email, hashedPassword, role, province_id, institution_id, faculty_id, department_id]
-      );
-  
-      res.json({ id: result.insertId, name, email, role, province_id, institution_id, faculty_id, department_id });
-    } catch (error) {
-      res.status(500).json({ error: 'Failed to create user' });
+  const {
+    name,
+    email,
+    password,
+    role,
+    province_id,
+    institution_id,
+    faculty_id,
+    department_id,
+  } = req.body;
+
+  if (!name || !email || !password || !role) {
+    return res.status(400).json({ error: 'All fields are required' });
+  }
+
+  try {
+    // Check if the user already exists
+    const [existingUser] = await db.query('SELECT * FROM users WHERE email = ?', [email]);
+    if (existingUser.length > 0) {
+      return res.status(409).json({ error: 'User already exists' });
     }
-  };
+
+    // Hash the password before saving
+    const salt = await bcrypt.genSalt(10);
+    const hashedPassword = await bcrypt.hash(password, salt);
+
+    const [result] = await db.query(
+      `INSERT INTO users (name, email, password, role, province_id, institution_id, faculty_id, department_id) 
+       VALUES (?, ?, ?, ?, ?, ?, ?, ?)`,
+      [name, email, hashedPassword, role, province_id, institution_id, faculty_id, department_id]
+    );
+
+    res.status(201).json({
+      id: result.insertId,
+      name,
+      email,
+      role,
+      province_id,
+      institution_id,
+      faculty_id,
+      department_id,
+    });
+  } catch (error) {
+    if (error.code === 'ER_DUP_ENTRY') {
+      res.status(409).json({ error: 'Duplicate entry for email' });
+    } else {
+      res.status(500).json({ error: 'Internal Server Error', details: error.message });
+    }
+  }
+};
+
   
 
 // Update an existing user
