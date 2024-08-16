@@ -1,9 +1,11 @@
 const express = require('express');
 const router = express.Router();
-const gradesController = require('../controllers/agentsController');
+const agentsController = require('../controllers/agentsController');
 
-router.get('/', gradesController.getAllAgents);
-router.get('/sum', gradesController.getTotalAgents);
+router.get('/', agentsController.getAllAgents);
+router.get('/sum', agentsController.getTotalAgents);
+router.get('/pagination', agentsController.getAllagentswithpagnation);
+router.get('/search', agentsController.getAllagentsWithPaginationsearch);  
 
 
 module.exports = router;
