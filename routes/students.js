@@ -4,9 +4,11 @@ const studentsController = require('../controllers/studentsController');
 const auth = require('../middleware/auth');
 
 // Protected routes with role-based access
-router.get('/', studentsController.getAllStudents); // Any authenticated user can access
+router.get('/', studentsController.getAllStudents); 
+router.get('/pagination', studentsController.getAllStudentswithpagnation);
+router.get('/search', studentsController.getAllStudentsWithPaginationsearch);  
 router.get('/sum', studentsController.getTotalStudents);
-router.get('/:id', auth(), studentsController.getStudentById); // Any authenticated user can access
+router.get('/:id', studentsController.getStudentById); // Any authenticated user can access
 router.get('/reg/:matricule', studentsController.getStudentById); 
 router.post('/', auth('admin'), studentsController.createStudent); // Only admins can create students
 router.put('/:id', auth('admin'), studentsController.updateStudent); // Only admins can update students

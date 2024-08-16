@@ -1,5 +1,75 @@
 const db = require('../config/db');
 
+// Get all students with pagination
+exports.getAllStudentswithpagnation = async (req, res) => {
+  try {
+    const limit = parseInt(req.query.limit, 10) || 200; // Number of records to fetch, default is 200
+    const offset = parseInt(req.query.offset, 10) || 0; // Starting point, default is 0
+
+    // Query to get the total number of students
+    const [totalResult] = await db.query('SELECT COUNT(*) as total FROM students');
+    const total = totalResult[0].total;
+
+    // Query to fetch the students with limit and offset
+    const [rows] = await db.query('SELECT * FROM students LIMIT ? OFFSET ?', [limit, offset]);
+
+    // Sending the response with students data and total count
+    res.json({
+      students: rows,
+      total: total,
+    });
+  } catch (error) {
+    res.status(500).json({ error: 'Failed to fetch students' });
+  }
+};
+
+
+// Get all students with pagination and search
+exports.getAllStudentsWithPaginationsearch = async (req, res) => {
+  try {
+    const limit = parseInt(req.query.limit, 10) || 200; // Number of records to fetch, default is 200
+    const offset = parseInt(req.query.offset, 10) || 0; // Starting point, default is 0
+    const search = req.query.search || '';
+
+    // Construct the search query
+    let searchQuery = '';
+    const queryParams = [];
+
+    if (search) {
+      searchQuery = '(nom LIKE ? OR postNom LIKE ? OR prenom LIKE ?)';
+      const likeSearch = `%${search}%`;
+      queryParams.push(likeSearch, likeSearch, likeSearch);
+    }
+
+    // Query to get the total number of students with the search condition
+    let countQuery = 'SELECT COUNT(*) as total FROM students';
+    if (searchQuery) {
+      countQuery += ` WHERE ${searchQuery}`;
+    }
+    const [totalResult] = await db.query(countQuery, queryParams);
+    const total = totalResult[0].total;
+
+    // Query to fetch the students with limit, offset, and search condition
+    let fetchQuery = 'SELECT * FROM students';
+    if (searchQuery) {
+      fetchQuery += ` WHERE ${searchQuery}`;
+    }
+    fetchQuery += ' LIMIT ? OFFSET ?';
+    queryParams.push(limit, offset);
+
+    const [rows] = await db.query(fetchQuery, queryParams);
+
+    // Sending the response with students data and total count
+    res.json({
+      students: rows,
+      total: total,
+    });
+  } catch (error) {
+    res.status(500).json({ error: 'Failed to fetch students' });
+  }
+};
+
+
 // Get all students
 exports.getAllStudents = async (req, res) => {
   try {
