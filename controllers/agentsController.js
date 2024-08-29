@@ -60,6 +60,21 @@ exports.getAllagentsWithPaginationsearch = async (req, res) => {
       queryParams.push(likeSearch, likeSearch, likeSearch);
     }
 
+
+    // Get a agent by matricule
+exports.getStudentBymatricule = async (req, res) => {
+  const { matricule } = req.params;
+  try {
+    const [rows] = await db.query('SELECT * FROM agents WHERE matricule = ?', [matricule]);
+    if (rows.length === 0) {
+      return res.status(404).json({ error: 'Student not found' });
+    }
+    res.json(rows);
+  } catch (error) {
+    res.status(500).json({ error: 'Failed to fetch student' });
+  }
+};
+
     // Query to get the total number of agents with the search condition
     let countQuery = 'SELECT COUNT(*) as total FROM agents';
     if (searchQuery) {
